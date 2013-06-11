@@ -98,7 +98,7 @@ p0030
   70 Vetaraṇi 入地獄前應渡之河川。譯作撓撈河、灰河等。
   71 辨別（viceyya）喻辨別受施者之如何。
 p0031
-  72 法句（dhammapada）稱為止觀或稱作涅槃者，法之（dhamma koṭṭhāsa）部分者（Jātaka, ĪI. P. 472）而一向稱為三十七道分者（同）。今註釋為涅槃之法句。
+  72 法句（dhammapada）稱為止觀或稱作涅槃者，法之（dhamma koṭṭhāsa）部分者（Jātaka, III. P. 472）而一向稱為三十七道分者（同）。今註釋為涅槃之法句。
   73 雜阿含經四八．二○（大正藏二．三五四b）。
 p0032
   74 禍（agha）Pañcakkhandha dukkha 註釋為（五蘊之苦）。
@@ -591,7 +591,7 @@ p0250
 p0251
   37 二句作一句。
   38 垓（nirabbuda）是將零再加三十六之數。
-  39 秭（abbuda）是將零附加五十六之數。Jātaka ĪI, P. 360 參閱《梵漢辭典》二○七頁。
+  39 秭（abbuda）是將零附加五十六之數。Jātaka III, P. 360 參閱《梵漢辭典》二○七頁。
   40 雜阿含經卷四八．一二（大正藏二．三五一b）。
 p0254
   41 底本之 vassasatassa vassasahassa 讀為 vassasatassa vassasatassa。
