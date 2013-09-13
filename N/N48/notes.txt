@@ -16,7 +16,7 @@ p0016
   09 尋　參閱『分別論』（vibhaṅga p. 257）。伺亦同。
   10 專注　在『翻譯名義大集』為現前解（abhinirūpaṇā）。
 p0017
-  11 悅豫　在覺音註書（一四三頁）attano manatā 解釋為〔自[已>己]<resp="CBETAṃaha">之心性〕，而實際上相當於於梵語 ātta（a + √dā + tā）mamatā〔被奪之心〕即喜悅之意。英國佛教學者戴維茲夫人（Mrs. Rhys Davids, 1858-1942）謂覺音不知語源，其例可見『佛教的語源學』。
+  11 悅豫　在覺音註書（一四三頁）attano manatā 解釋為〔自[已>己]<resp="CBETA.maha">之心性〕，而實際上相當於於梵語 ātta（a + √dā + tā）mamatā〔被奪之心〕即喜悅之意。英國佛教學者戴維茲夫人（Mrs. Rhys Davids, 1858-1942）謂覺音不知語源，其例可見『佛教的語源學』。
   12 等住（saṇṭhiti）．堅住（avaṭṭhiti）　前者即心繫結於所緣而住，後者乃入而住之謂（註書一四三頁）。
   13 信　於前有信而再出現的理由是信三寶之內容無異，其次列舉信根等之合成語僅是阿毘達磨的手法而已。以下類似之說相亦同樣。
 p0018
@@ -160,7 +160,7 @@ p0248
   04 原本是 kusalā vyākatā，應由暹羅本之 kusalavyākatā。
 p0251
   05 原本 tattha 以下之文脫落，由暹羅本補之。即 katamā sakkāyadiṭṭhi……pe……ayaṁ vuccati sakkāyadiṭṭhi tattha katamā vicikicchā……pe……ayaṁ vuccati vicikicchā tattha katamā sīlabbataparāmāso……pe……ayaṁ vuccati sīlabbataparāmāso。然原本 tattha 其次之 sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso 可刪除。
-  06 [由>此]<resp="CBETAṃaha">項原本無，自暹羅本補之。即 tīṇi saññojanāni sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso, ime dhammā dassanenapahātabbā, tadekaṭṭho lobho doso moho, ime dhammā dassanenapahātabbahetu, tadekaṭṭhā ca kilesa, taṁ sampayutto vedanakkhandho……pe……viññāṇakkhandho, taṁ samuṭṭhānaṁ kāyakammaṁ vacīkammaṁ manokammaṁ, ime dhammā dassanenapahatābbahetikā。
+  06 [由>此]<resp="CBETA.maha">項原本無，自暹羅本補之。即 tīṇi saññojanāni sakkāyadiṭṭhi vicikicchā sīlabbataparāmāso, ime dhammā dassanenapahātabbā, tadekaṭṭho lobho doso moho, ime dhammā dassanenapahātabbahetu, tadekaṭṭhā ca kilesa, taṁ sampayutto vedanakkhandho……pe……viññāṇakkhandho, taṁ samuṭṭhānaṁ kāyakammaṁ vacīkammaṁ manokammaṁ, ime dhammā dassanenapahatābbahetikā。
 p0254
   07 原本是 sampattanigatā，為 sammatta niyatā 之誤。
 p0255
