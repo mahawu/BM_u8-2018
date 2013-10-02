@@ -1,10 +1,10 @@
 ﻿N53 電子版本來源記錄 2013/09/19
 
-C:CBETA OCR
+C:CBETA 人工輸入
 Z:智光法師提供
 X:祥因法師提供
 
-C:CBETA OCR, OCR by CBETA
+C:CBETA 人工輸入, Input by CBETA
 Z:智光法師提供, Text as provided by Ven. Zhiguang
 X:祥因法師提供, Text as provided by Ven. Xiangyin
 
