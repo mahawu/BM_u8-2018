@@ -77,7 +77,7 @@ p0061
   03 意譯為 puññakammamaya。
 p0063
   01 此章之末尾失題不明。
-  02 四四章一三七～一三[七>九]<resp="CBETAṃaha">參照。
+  02 四四章一三七～一三[七>九]<resp="CBETA.maha">參照。
 p0067
   03 在原文有 katvā gāmadvyam c'eva 而校訂者為 kappāgamavhayañc = eva 依此而譯。
   04 以下原文甚缺，不見章末之「以上善人……」之句，又若干之不補者向次章之連則絡困難。
