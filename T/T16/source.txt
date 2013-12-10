@@ -37,7 +37,7 @@ m:Melon 提供新式標點, Punctuated text as provided by Melon
 f:范振業大德提供新式標點, Punctuated text as provided by Mr. Fan Zhen-Ye
 c:Jaero Chen 提供新式標點, Punctuated text as provided by Jaero Chen
 j:Jasmine 提供新式標點, Punctuated text as provided by Jasmine
-q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun, Liao Yu-An, and Liao Yu-Ci
+q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An and Liao Yu-Ci
 p:波羅提供新式標點, Punctuated text as provided by Po-Luo
 u:釋振溥法師提供新式標點, Punctuated text as provided by Ven. Shi Zhen-Pu
 y:張裕蓮提供新式標點, Punctuated text as provided by Zhang Yu-Lian

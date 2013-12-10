@@ -35,7 +35,7 @@ D:佛教藏 OCR 小組輸入, Text as inputted by Buddhist Tripitaka OCR Team
 z:張曌昱大德提供新式標點, Punctuated text as provided by Mr. Zhang Zhao-Yu
 c:中華佛教百科文獻基金會提供新式標點, Punctuated text as provided by Chinese Buddhist Literary Foundation
 j:陳建同大德提供新式標點, Punctuated text as provided by Mr. Chen Jian-Tong
-q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun, Liao Yu-An, and Liao Yu-Ci
+q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An and Liao Yu-Ci
 f:范振業大德提供新式標點, Punctuated text as provided by Mr. Fan Zhen-Ye
 m:Jasmine 提供新式標點, Punctuated text as provided by Jasmine
 i:黃金愛大德提供新式標點, Punctuated text as provided by Ms. Huang Jin-Ai

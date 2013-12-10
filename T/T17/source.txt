@@ -53,7 +53,7 @@ c:中華佛教百科文獻基金會提供新式標點, Punctuated text as provid
 j:Jaero Chen 提供新式標點, Punctuated text as provided by Jaero Chen
 m:Jasmine 提供新式標點, Punctuated text as provided by Jasmine
 x:Xian 大德提供新式標點, Punctuated text as provided by Xian
-p:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun, Liao Yu-An, and Liao Yu-Ci
+p:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An and Liao Yu-Ci
 f:Fun提供新式標點, Punctuated text as provided by Fun
 l:波羅提供新式標點, Punctuated text as provided by Po-Luo
 u:釋振溥法師提供新式標點, Punctuated text as provided by Ven. Shi Zhen-Pu

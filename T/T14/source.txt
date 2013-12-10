@@ -68,7 +68,7 @@ n:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-
 e:CBETA 提供新式標點, Punctuated text as provided by CBETA
 a:范振業大德提供新式標點, Punctuated text as provided by Mr. Fan Zhen-Ye
 g:Xian 大德提供新式標點, Punctuated text as provided by Xian
-p:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun, Liao Yu-An, and Liao Yu-Ci
+p:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An and Liao Yu-Ci
 h:黃金愛大德提供新式標點, Punctuated text as provided by Ms. Huang Jin-Ai
 u:釋振溥法師提供新式標點, Punctuated text as provided by Ven. Shi Zhen-Pu
 

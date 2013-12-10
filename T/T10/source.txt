@@ -26,7 +26,7 @@ E:佛教電腦資訊庫功德會提供, Text as provided by Electronic Buddhadha
 P:眾生出版社提供新式標點, Punctuated text as provided by Chung Sheng Publishing Company
 M:摩訶工作室提供新式標點, Punctuated text as provided by Maha Studio
 p:佩君、廖予安大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An
-q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun, Liao Yu-An, and Liao Yu-Ci
+q:毛佩君、廖予安、廖予慈大德提供新式標點, Punctuated text as provided by Mao Pei-Jun and Liao Yu-An and Liao Yu-Ci
 f:范振業大德提供新式標點, Punctuated text as provided by Mr. Fan Zhen-Ye
 y:釋永真法師提供新式標點, Punctuated text as provided by Ven. Shi Yong-Zhen
 c:陳伯勳大德提供新式標點, Punctuated text as provided by Mr. Chen Bo-Xun
