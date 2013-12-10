@@ -10,7 +10,7 @@ b:中華佛教百科文獻基金會提供新式標點
 
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 O:CBETA 自行掃瞄辨識, CBETA OCR Group
-4:北美某大德提供, Text as provided by Anonymous, USA
+4:北美某大德提供, Text as provided by Anonymous from USA
 c:CBETA 提供新式標點, Punctuated text as provided by CBETA
 b:中華佛教百科文獻基金會提供新式標點, Punctuated text as provided by Chinese Buddhist Literary Foundation
 

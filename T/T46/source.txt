@@ -1,7 +1,7 @@
 T46 檔案比對版本來源記錄 20071210
 
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
-4:北美某大德提供, Text as provided by Anonymous, USA
+4:北美某大德提供, Text as provided by Anonymous from USA
 e:佛教電腦資訊庫功德會提供新式標點, Punctuated text as provided by Electronic Buddhadharma Society (EBS)
 c:中華佛教百科文獻基金會提供新式標點, Punctuated text as provided by Chinese Buddhist Literary Foundation
 

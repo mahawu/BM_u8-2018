@@ -31,7 +31,7 @@ i:黃金愛大德提供新式標點
 g:黃桂芳大德提供新式標點
 a:齊丐提供新式標點
 
-4:北美某大德提供, Text as provided by Anonymous, USA
+4:北美某大德提供, Text as provided by Anonymous from USA
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 K:維習安大德提供之高麗藏 CD 經文, Tripitaka Koreana as provided by Mr. Christian Wittern
 O:CBETA 自行掃瞄辨識, CBETA OCR Group

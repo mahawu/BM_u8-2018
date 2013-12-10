@@ -3,7 +3,7 @@ T12 檔案比對版本來源記錄 20071208
 S:蕭鎮國 Mr. Hsiao Chen-kuo
 s:蕭鎮國 Mr. Hsiao Chen-kuo
 H:HKCD（香港CD）
-4:北美某大德提供 Text as provided by Anonymous, USA
+4:北美某大德提供 Text as provided by Anonymous from USA
 K:維習安所提供高麗藏CD原經文 Tripitaka Koreana as provided by Mr. Christian Wittern
 W:維習安所提供 Christian Wittern
 P:東坡經文 Dongpo FTP Site
@@ -32,7 +32,7 @@ H:其他 Others
 
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 s:蕭鎮國大德輸入, Text as inputted by Mr. Hsiao Chen-Kuo
-4:北美某大德提供, Text as provided by Anonymous, USA
+4:北美某大德提供, Text as provided by Anonymous from USA
 K:維習安大德提供之高麗藏 CD 經文, Tripitaka Koreana as provided by Mr. Christian Wittern
 W:維習安大德提供, Text as provided by Mr. Christian Wittern
 P:張自強大德輸入／Gamblers 大德校對, Text as inputted by Mr. Chang Tzu-Chiang / proofread by Mr. Gamblers

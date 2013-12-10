@@ -3,7 +3,7 @@ T48 檔案比對版本來源記錄 20071210
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 E:佛教電腦資訊庫功德會提供, Text as provided by Electronic Buddhadharma Society (EBS)
 T:傳穎法師提供, Text as provided by Ven. Chuanying
-4:北美某大德提供, Text as provided by Anonymous, USA
+4:北美某大德提供, Text as provided by Anonymous from USA
 H:黃連忠提供, Text as provided by Mr. Huang Lien-chung
 s:西蓮淨苑提供新式標點, Punctuated text as provided by The Seeland Monastery
 c:CBETA 提供新式標點, Punctuated text as provided by CBETA

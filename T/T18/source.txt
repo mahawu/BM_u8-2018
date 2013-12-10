@@ -7,7 +7,7 @@ O:CBETA 自行掃瞄辨識
 
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 T:日本 SAT 組織提供, Text as provided by SAT, Japan
-4:北美某大德提供, Text as provided by Anonymous, USA
+4:北美某大德提供, Text as provided by Anonymous from USA
 O:CBETA 自行掃瞄辨識, CBETA OCR Group
 
 ★若為上網需要，以上括號內文字請勿引用。
