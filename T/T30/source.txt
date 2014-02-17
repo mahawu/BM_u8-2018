@@ -5,6 +5,7 @@ W:維習安所提供 Text as provided by Christian Wittern
 K:維習安所提供高麗藏CD原經文 Tripitaka Koreana as provided by Christian Wittern
 S:蕭鎮國 Mr. Hsiao Chen-kuo
 C:西蓮淨苑 Seeland
+p:波羅大德提供新式標點
 
 4:北美某大德提供, Text as provided by Anonymous from USA
 W:維習安大德提供, Text as provided by Mr. Christian Wittern
@@ -12,6 +13,7 @@ K:維習安大德提供之高麗藏 CD 經文, Tripitaka Koreana as provided by 
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 C:西蓮淨苑輸入, Text as inputted by Seeland Monastery
 H:惠敏法師提供之科判, The Outline as provided by Ven. Huimin
+p:波羅大德提供新式標點, Punctuated text as provided by Po-Luo
 
 ★若為上網需要，以上括號內文字請勿引用。
 
@@ -21,7 +23,7 @@ KW4       T1564-30-p0001  V1.0   1999/12/10    4  中論                        
 KW4       T1565-30-p0039  V1.0   1999/12/10    2  順中論                                   【龍樹菩薩造  無著菩薩釋  元魏 瞿曇般若流支譯】        K0589-16
 KW4       T1566-30-p0051  V1.0   1999/12/10   15  般若燈論釋                               【偈本龍樹菩薩  釋論分別明菩薩  唐 波羅頗蜜多羅譯】          K0578-16
 KW4       T1567-30-p0136  V1.0   1999/12/10    9  大乘中觀釋論(第1卷-第9卷)                【安慧菩薩造  宋 惟淨等譯】                K1482-41
-KW4       T1568-30-p0159  V1.0   1999/12/10    1  十二門論                                 【龍樹菩薩造  姚秦 鳩摩羅什譯】            K0579-16
+KW4p      T1568-30-p0159  V1.0   1999/12/10    1  十二門論                                 【龍樹菩薩造  姚秦 鳩摩羅什譯】            K0579-16
 KW4       T1569-30-p0168  V1.0   1999/12/10    2  百論                                     【提婆菩薩造  婆藪開士釋  姚秦 鳩摩羅什譯】            K0581-16
 KW4       T1570-30-p0182  V1.0   1999/12/10    1  廣百論本                                 【聖天菩薩造  唐 玄奘譯】                  K0582-16
 KW4       T1571-30-p0187  V1.0   1999/12/10   10  大乘廣百論釋論                           【聖天菩薩本  護法菩薩釋  唐 玄奘譯】                  K0583-16

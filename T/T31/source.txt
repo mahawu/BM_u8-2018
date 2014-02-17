@@ -5,12 +5,16 @@ S:蕭鎮國大德 Text as provided by Mister Hsiao Chen-kuo
 K:維習安所提供高麗藏CD原經文 Tripitaka Koreana as provided by Christian Wittern
 J:日本 SAT 組織提供, Text as provided by SAT, Japan
 s:西蓮淨苑提供新式標點
+l:Lilneige 大德提供新式標點
+p:波羅大德提供新式標點
 
 4:北美某大德提供, Text as provided by Anonymous from USA
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 K:維習安大德提供之高麗藏 CD 經文, Tripitaka Koreana as provided by Mr. Christian Wittern
 J:日本 SAT 組織提供, Text as provided by SAT, Japan
 s:西蓮淨苑提供新式標點, Punctuated text as provided by The Seeland Monastery
+l:Lilneige 大德提供新式標點, Punctuated text as provided by Lilneige
+p:波羅大德提供新式標點, Punctuated text as provided by Po-Luo
 
 ★若為上網需要，以上括號內文字請勿引用。
 
@@ -25,7 +29,7 @@ SK4       T1590-31-p0074  V1.0   1999/12/10    1  唯識二十論               
 SK4       T1591-31-p0077  V1.0   1999/12/10    5  成唯識寶生論                             【護法菩薩造  唐 義淨譯】                  K0605-17
 SK4       T1592-31-p0097  V1.0   1999/12/10    2  攝大乘論                                 【阿僧伽作  後魏 佛陀扇多譯】              K0591-16
 SK4       T1593-31-p0113  V1.0   1999/12/10    3  攝大乘論                                 【無著菩薩造  陳 真諦譯】                  K0588-16
-SK4       T1594-31-p0132  V1.0   1999/12/10    3  攝大乘論本                               【無著菩薩造  唐 玄奘譯】                  K0592-16
+SK4l      T1594-31-p0132  V1.0   1999/12/10    3  攝大乘論本                               【無著菩薩造  唐 玄奘譯】                  K0592-16
 SK4       T1595-31-p0152  V1.0   1999/12/10   15  攝大乘論釋                               【世親菩薩釋  陳 真諦譯】                  K0590-16
 SK4       T1596-31-p0271  V1.0   1999/12/10   10  攝大乘論釋論                             【世親菩薩造  隋 笈多共行矩等譯】          K0593-17
 SK4       T1597-31-p0321  V1.0   1999/12/10   10  攝大乘論釋                               【世親菩薩造  唐 玄奘譯】                  K0594-17
@@ -43,7 +47,7 @@ SK4       T1608-31-p0777  V1.0   1999/12/10    1  業成就論                  
 SK4       T1609-31-p0781  V1.0   1999/12/10    1  大乘成業論                               【世親菩薩造  唐 玄奘譯】                  K0603-17
 SK4       T1610-31-p0787  V1.0   1999/12/10    4  佛性論                                   【天親菩薩造  陳 真諦譯】                  K0596-17
 SK4       T1611-31-p0813  V1.0   1999/12/10    4  究竟一乘寶性論                           【後魏 勒那摩提譯】                        K0600-17
-SK4       T1612-31-p0848  V1.0   1999/12/10    1  大乘五蘊論                               【世親菩薩造  唐 玄奘譯】                  K0618-17
+SK4p      T1612-31-p0848  V1.0   1999/12/10    1  大乘五蘊論                               【世親菩薩造  唐 玄奘譯】                  K0618-17
 SK4       T1613-31-p0850  V1.0   1999/12/10    1  大乘廣五蘊論                             【安慧菩薩造  唐 地婆訶羅譯】              K0619-17
 SK4       T1614-31-p0855  V1.0   1999/12/10    1  大乘百法明門論                           【天親菩薩造  唐 玄奘譯】                  K0644-17
 SK4       T1615-31-p0855  V1.0   1999/12/10    1  王法正理論                               【彌勒菩薩造  唐 玄奘譯】                  K0574-16

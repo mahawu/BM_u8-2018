@@ -4,14 +4,14 @@ T23 檔案比對版本來源記錄 050699
 4:其他  Others
 S:蕭鎮國大德 Text as provided by Mister Hsiao Chen-kuo
 J:伽耶山基金會 Gaya Foundation
-b:本禪法師提供新式標點
+b:釋本禪法師提供新式標點
 f:李明芳大德提供新式標點
 n:南林尼僧苑提供新式標點
 
 4:北美某大德提供, Text as provided by Anonymous from USA
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
 J:伽耶山基金會提供, Text as provided by Gaya Foundation
-b:本禪法師提供新式標點, Punctuated text as provided by Ven. Shi Ben-Chan
+b:釋本禪法師提供新式標點, Punctuated text as provided by Ven. Shi Ben-Chan
 f:李明芳大德提供新式標點, Punctuated text as provided by Mr. Li Ming-Fang
 n:南林尼僧苑提供新式標點, Punctuated text as provided by Nanlin Monastery
 
