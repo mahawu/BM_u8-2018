@@ -1,6 +1,6 @@
 p0001
   01 本篇乃第八十集（Asīti-nipāta）。
-  02 雜寶藏經卷八〔一○一〕（大正藏卷四、四八八頁）；J. no. 534. Mahāhaṁsa（J. V, P. 354f）; J. no. 502Ḥaṁsa（J. IV, P. 423f）; Jm. 22Ḥaṁsa（Jm. p. 127f）etc 參照。
+  02 雜寶藏經卷八〔一〇一〕（大正藏卷四、四八八頁）；J. no. 534. Mahāhaṁsa（J. V, P. 354f）; J. no. 502Ḥaṁsa（J. IV, P. 423f）; Jm. 22Ḥaṁsa（Jm. p. 127f）etc 參照。
   03 有關射師等不能射如來之譚見 J. VI, P. 129。
   04 Jīvaka（Komārabhacca）為歸依佛之王舍城良醫。Bimbisāra 王之子 Abhaya（無畏）王與淫女之間所生。Komārabhacca 之異名，乃為哺育王子之故，或見此小兒之故而如斯云云。
 p0004
@@ -29,7 +29,7 @@ p0016
 p0024
   19 八六、八七之二偈出自 Text, P. 381。
 p0027
-  01 J. no. 533, Cullahaṁsa（J. V. P. 337）；J. no 520, Haṁsa U. IV, P. 423F；雜寶藏經卷八〔一○一〕（大正藏卷四、四八八頁）。Jm 22, Haṁsa（Jm. p. 127F）參照。
+  01 J. no. 533, Cullahaṁsa（J. V. P. 337）；J. no 520, Haṁsa U. IV, P. 423F；雜寶藏經卷八〔一〇一〕（大正藏卷四、四八八頁）。Jm 22, Haṁsa（Jm. p. 127F）參照。
 p0029
   02 gāvuta 一由旬四分之一。
 p0033
@@ -229,14 +229,14 @@ p0140
   72 Namuci 惡魔（māsa）之別名，註釋有 Kilesamāra（煩惱魔）。見 Sn-A. P. 386。
 p0141
   73 Patāpana 八大地獄之一。見前之 Saṅkicca-jā（NO. 530）。
-  74 Simbalivana 小地獄之一，被列舉於（M. 130）相當於漢譯之十六小地獄中之劍樹（長阿含三○世紀經）。參照前 sankicca-jātaka。（據云由 Vetaranī 之兩岸垂下鐵 simbali樹。）
+  74 Simbalivana 小地獄之一，被列舉於（M. 130）相當於漢譯之十六小地獄中之劍樹（長阿含三〇世紀經）。參照前 sankicca-jātaka。（據云由 Vetaranī 之兩岸垂下鐵 simbali樹。）
   75 Nandana 歡喜苑，為三十三天神苑之一。
 p0143
   76 mahāsamaya-sutta（大會經）D. 20（II. P. 2535）漢譯南傳藏八，二一一參照。
 p0150
-  01 cp, 32, sutasoma, Jātakamālā 31sutasoma（P, 207），六度集經卷四（41）普明王經（大正藏卷三、二二b），菩薩本行經卷下（大正藏卷三、一一九b），賢愚經卷十一（二五）無惱指鬘品（大正藏卷四、四二三b）失譯雜譬喻經卷上（八）（大正藏卷四、五○三e）僧伽羅剎所集經卷上（大正藏卷四、一一六a），智慧論卷四（大正藏卷二五、八八c）等參照。
+  01 cp, 32, sutasoma, Jātakamālā 31sutasoma（P, 207），六度集經卷四（41）普明王經（大正藏卷三、二二b），菩薩本行經卷下（大正藏卷三、一一九b），賢愚經卷十一（二五）無惱指鬘品（大正藏卷四、四二三b）失譯雜譬喻經卷上（八）（大正藏卷四、五〇三e）僧伽羅剎所集經卷上（大正藏卷四、一一六a），智慧論卷四（大正藏卷二五、八八c）等參照。
   02 Aṅgulimāla 譯為指鬘。言為殺人以其指作鬘。後為佛所化，得應果。
-  03 Argulimāla Sutta M 86（M, II, P, 97）與此相當漢譯雜阿含卷三十八（大正藏卷二、二八○c），別雜卷一（大正藏卷二、三七八b），鴦掘摩經（大正藏卷二、七一九b）等。
+  03 Argulimāla Sutta M 86（M, II, P, 97）與此相當漢譯雜阿含卷三十八（大正藏卷二、二八〇c），別雜卷一（大正藏卷二、三七八b），鴦掘摩經（大正藏卷二、七一九b）等。
 p0159
   04 依註釋補足。
 p0163
@@ -268,7 +268,7 @@ p0184
 p0185
   20 nakkhattadhamma 對此大菩薩之答覆 khattadhamma（統治之法）之意。是故 nakhattadhamṁe kusalo 可讀為（統治之法不道）之意耶？
 p0188
-  21 以下四偈為四○～四三偈之返復。
+  21 以下四偈為四〇～四三偈之返復。
 p0192
   22 同偈亦出於 J, III, P. 280。
 p0195
@@ -282,7 +282,7 @@ p0204
   27 kammāsadamma-nigama 譯為伏鬼街？食人者即為鬼（kammāsapada）持有斑之足之調伏街之意。
 p0208
   01 本篇為 Mahānipāta（大集）。
-  02 暹羅本題為 Temiya-jātaka。Gp. 26, Temiya；六度集經四、（三八）太子墓魄經（大正藏卷三、二○b）太子墓魄經（大正藏卷三、四○八b 別譯四一○a）。此浮彫圖存在於 Bharhut（Barāhat）；題為 Muga-pakiya（Cunningham, PL. XXV, 4）。
+  02 暹羅本題為 Temiya-jātaka。Gp. 26, Temiya；六度集經四、（三八）太子墓魄經（大正藏卷三、二〇b）太子墓魄經（大正藏卷三、四〇八b 別譯四一〇a）。此浮彫圖存在於 Bharhut（Barāhat）；題為 Muga-pakiya（Cunningham, PL. XXV, 4）。
   03 Pāramī（or pāramitā）度，譯為到彼岸，為菩薩之大行。依此行事，得度涅槃之彼岸。
 p0209
   04 Uposatga 月之新月、滿月之日及其中間之日（八日、二十三日）為安息日，印度古來之習慣作為齋日。此日休業、持戒、斷食慶祝，以此儀式謂之布薩。在佛教出家者普通四人以上共住，以為說戒懺悔之儀式，在家者受八齋戒，終日住於清淨。
@@ -312,9 +312,9 @@ p0223
 p0224
   21 依註釋此為就 Sīvalī（比丘尼）之事說明者 Dhp. A. II, P. 196; J. VI, P. 30F（Mahājanaka）參照。
   22 註釋云為 Sankicca-Sāmaṇera（仙人）之事。Dhp. A. II, P. 240F 參照。
-  23 在註釋中為 Jotipāla 之事（司祭之子，佛之前生）。D. II, P. 230F（mahāgovinda）；長阿五（典尊經）（大正藏卷一、三○b）Jotipāla（焰鬘）參照。
+  23 在註釋中為 Jotipāla 之事（司祭之子，佛之前生）。D. II, P. 230F（mahāgovinda）；長阿五（典尊經）（大正藏卷一、三〇b）Jotipāla（焰鬘）參照。
   24 在註釋中為 Citta-gahapati（比丘尼）Dhp. -A. , II. P. 74F 參照。
-  25 註釋為 Anātgapiṇḍika 之事。S. 10. 8. 及其註，雜阿二二（大正藏卷二、一五七b）Vin. CV. VI, A. P. I；四分律五○（大正藏卷二二、九三八b）等參照。
+  25 註釋為 Anātgapiṇḍika 之事。S. 10. 8. 及其註，雜阿二二（大正藏卷二、一五七b）Vin. CV. VI, A. P. I；四分律五〇（大正藏卷二二、九三八b）等參照。
 p0225
   26 註釋中有說為 Cullapaduma-jātaka no. 193.（J. II. P. 115）（小蓮華王本生譚）。
   27 依註釋 Kuraraggariya-Soṇattgera 之母之家（拘羅羅家）有盜賊侵入之事。Dhp. -A. IV, P. 101F（Kuraraghara Soṇakoṭikaṇṇa《摩訶迦旃延弟子》之母參照）。
@@ -345,7 +345,7 @@ p0245
   41 Sīgaladipa（Siṁhala，Siṁhakalpa）僧伽羅、師子劫，為錫蘭島之事。
   42 J. IV. P. 490 參照。
 p0250
-  01 Mahājanaka-jātaka 參照賢愚經八（大正卷四、四○五b）六度集經一（大正卷三、四a）, S, B. E. L, P. 300 等。有此浮雕圖 Barāhat（Bharhut），記銘中在各人物之上有 "usukāra, janako rāja, sivali devi"（Cunningham, PL. XI. IV, 2）。
+  01 Mahājanaka-jātaka 參照賢愚經八（大正卷四、四〇五b）六度集經一（大正卷三、四a）, S, B. E. L, P. 300 等。有此浮雕圖 Barāhat（Bharhut），記銘中在各人物之上有 "usukāra, janako rāja, sivali devi"（Cunningham, PL. XI. IV, 2）。
 p0252
   02 Kāla campā Aṅga 與（鴦伽）國之首都 Campā 同。
 p0255
