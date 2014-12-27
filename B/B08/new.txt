@@ -8964,9 +8964,9 @@ B08n0026_p0164b22_##<p,2>略說五種藥之成份及作用
 B08n0026_p0164b23_##<p,2>（1）酥——酥乃牛羊等乳為之，有生酥熟酥之別；今此乃指熟酥之謂。其制法以鮮
 B08n0026_p0164b24_##乳入鍋，煑二三沸，傾入盆內，冷定，待面層結皮，取皮再煎油出，去渣，入在鍋內
 B08n0026_p0164b25_##即成。普通以牛羊乳合製。單獨製者有㸺牛酥、犛牛酥、水牛酥、白牛酥、白羊酥
-B08n0026_p0164b26_##等。含有多種之脂酸，如酪酸（Butyric Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>COOH）、羊油酸（Caproice
-B08n0026_p0164b27_## Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>COOH）、羊脂酸（Caprylic Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>COOH）、羊臘酸（Capric
-B08n0026_p0164b28_## Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>COOH）等，並含有豐富之維生素（Vitamin A and D）及少許礦物質
+B08n0026_p0164b26_##等。含有多種之脂酸，如酪酸（Butyric Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>COOH</formula>）、羊油酸（Caproice
+B08n0026_p0164b27_## Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>COOH</formula>）、羊脂酸（Caprylic Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>COOH</formula>）、羊臘酸（Capric
+B08n0026_p0164b28_## Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>COOH</formula>）等，並含有豐富之維生素（Vitamin A and D）及少許礦物質
 B08n0026_p0165a01_##色物等。律云：火大百一熱病用酥治之。中醫謂可補虛益氣，清熱，潤燥調營，能除
 B08n0026_p0165a02_##腹中塵垢，追逐毒氣，使於毛孔中發出，悅皮膚，潤毛髮，治目赤痛多淚，目中努
 B08n0026_p0165a03_##肉。能療眯目，風火症，治蟲咬。老人便秘等功用。西醫之研究酥，則謂其含有多
@@ -8983,9 +8983,9 @@ B08n0026_p0165a13_##防皮膚疾病，潤澤皮膚之細胞及治一切炎症，
 B08n0026_p0165a14_##尊所許用，聽諸比丘服食乳、酪、生酥、熟酥、醍醐等，使身體調和，精神健康，
 B08n0026_p0165a15_##安心辦道，不為疾病所擾。偉哉！世尊實是一切智人！
 B08n0026_p0165a16_##<p,2>（2）油——普通以植物油為大宗，且易於消化。多從一切豆類、菓核、花生、菜油
-B08n0026_p0165a17_##子、芝蔴、胡蔴子等壓榨而成。含有重要之脂酸：如油酸（Oleic Acid C<sub>17</sub>H<sub>3</sub>
-B08n0026_p0165a18_##COOH），來自橄欖油即欖仁油。亞油酸（Linoleic Acid C<sub>17</sub>H<sub>31</sub>COOH），來自豆油、
-B08n0026_p0165a19_##菜油、胡麻子油。亞麻油烯酸（Arachidic Acid C<sub>19</sub>H<sub>39</sub>COOH），來自落花生。其他
+B08n0026_p0165a17_##子、芝蔴、胡蔴子等壓榨而成。含有重要之脂酸：如油酸（Oleic Acid <formula>C<sub>17</sub>H<sub>3</sub>
+B08n0026_p0165a18_##COOH</formula>），來自橄欖油即欖仁油。亞油酸（Linoleic Acid <formula>C<sub>17</sub>H<sub>31</sub>COOH</formula>），來自豆油、
+B08n0026_p0165a19_##菜油、胡麻子油。亞麻油烯酸（Arachidic Acid <formula>C<sub>19</sub>H<sub>39</sub>COOH</formula>），來自落花生。其他
 B08n0026_p0165a20_##羊油酸、羊脂酸、羊臘酸、木油酸等等，來自椰子油、大豆油、奶油。此等油之功用
 B08n0026_p0165a21_##有三：1.供給熱量。2.保護體溫，及保護器官。3.溶解四種維生素，即是 Vitamin
 B08n0026_p0165a22_## A、D、E、K，因此可以促進此四種維生素。4.能預防一切皮膚病及皮膚乾燥病。5.能
@@ -14205,7 +14205,7 @@ B08n0026_p0258b11_##性，若草灰及柴灰則有多量之苛性鈉（NaOH）�
 B08n0026_p0258b12_##而變為污垢物得洗去。昔日所用之麻油、澡豆、土、灰、蘇膏等，數者之化學作
 B08n0026_p0258b13_##用，即等於近世之肥皂，胰子、石鹼之構造物。麻油之硬脂酸，及皁莢之硬脂酸，
 B08n0026_p0258b14_##加灰之苛性鈉或鉀，即變為硬脂酸鈉之肥皂矣，觀其化合之程式即知：
-B08n0026_p0258b15_##<p,2>C<sub>3</sub>H<sub>5</sub>(C<sub>17</sub>H<sub>35</sub>CO<sub>2</sub>)<sub>3</sub>+3NaOH=C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub>+3NaC<sub>17</sub>H<sub>35</sub>CO<sub>2</sub>
+B08n0026_p0258b15_##<p,2><formula>C<sub>3</sub>H<sub>5</sub>(C<sub>17</sub>H<sub>35</sub>CO<sub>2</sub>)<sub>3</sub>+3NaOH=C<sub>3</sub>H<sub>5</sub>(OH)<sub>3</sub>+3NaC<sub>17</sub>H<sub>35</sub>CO<sub>2</sub></formula>
 B08n0026_p0258b16_##<p,2>硬脂酸＋苛性鈉＝甘油＋肥皂
 B08n0026_p0258b17_##<p,2>是故若用肥皂則等於用蘇膏、麻油、澡豆、灰、土也（關於肥皂洗濯之起化學作
 B08n0026_p0258b18_##用，於此不述）。今日叢林上之浴室，為眾師集體共浴者多，並設有《浴堂規則》云：
@@ -21071,9 +21071,9 @@ B08n0026_p0383a07_##之。肉類之成份及其份子之結構，總比植物性
 B08n0026_p0383a08_##作時，比之植物性食品為難且久也。今略分別言之於次：
 B08n0026_p0383a09_##<p,2>（一）醣類：以碳、氫、氧、為主要之元素，有單醣、雙醣及多醣之分別。來
 B08n0026_p0383a10_##自動物與植物中，今分為動物性食品之醣類，及植物性食品之醣類，於次說之：
-B08n0026_p0383a11_##<p,2>（1）植物性之醣類有：1.單醣類，如果糖、葡萄糖，其[份>分]子式為C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>。2.雙
-B08n0026_p0383a12_##醣類，如蔗糖、麥[牙>芽]糖，其[份>分]子式為 C<sub>12</sub>H<sub>22</sub>O<sub>11</sub>。3.多醣類，如澱粉，植物纖維，
-B08n0026_p0383a13_##其[份>分]子式為（C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>）n，植物性之醣類多來自五穀，豆類、塊莖、塊根等等，
+B08n0026_p0383a11_##<p,2>（1）植物性之醣類有：1.單醣類，如果糖、葡萄糖，其[份>分]子式為 <formula>C<sub>6</sub>H<sub>12</sub>O<sub>6</sub></formula>。2.雙
+B08n0026_p0383a12_##醣類，如蔗糖、麥[牙>芽]糖，其[份>分]子式為 <formula>C<sub>12</sub>H<sub>22</sub>O<sub>11</sub></formula>。3.多醣類，如澱粉，植物纖維，
+B08n0026_p0383a13_##其[份>分]子式為 <formula>(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub></formula>，植物性之醣類多來自五穀，豆類、塊莖、塊根等等，
 B08n0026_p0383a14_##吾人服食單醣，即能迅速被小腸所吸收，若食雙醣或多醣，先在口腔為唾液之澱粉
 B08n0026_p0383a15_##酶，使之分解，在口腔之時間短，故未能盡行消化。次入胃而聚於胃體，此時胃液
 B08n0026_p0383a16_##未將之全體浸透，尚能繼續進行其唾液分解醣之作用（此時較之在口腔為久），
@@ -21081,22 +21081,22 @@ B08n0026_p0383a17_##直至食糜為胃液所浸而成酸性時，唾液之消化
 B08n0026_p0383a18_##多醣類，被胃液之鹽酸所解，將雙醣變為單醣，即葡萄糖及果糖，但在胃中進行分
 B08n0026_p0383a19_##解之力微，故須至十二指腸，空腸時再為之消化及吸收也。
 B08n0026_p0383a20_##<p,2>（2）動物性之醣類亦有：1.單醣，如乳化糖。2.雙醣，如乳糖。3.多醣類，即動物
-B08n0026_p0383a21_##澱粉，其[份>分]子式亦為（C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>）n。動物澱粉在動物之肝臟及肌肉中為多，有二
+B08n0026_p0383a21_##澱粉，其[份>分]子式亦為 <formula>(C<sub>6</sub>H<sub>10</sub>O<sub>5</sub>)<sub>n</sub></formula>。動物澱粉在動物之肝臟及肌肉中為多，有二
 B08n0026_p0383a22_##種：a.自由式，用滾水或稀鹽酸即可將之提出。b.合併式，必須將動物之蛋白質消
 B08n0026_p0383a23_##化，然後其肉中之動物澱粉便可分離。故肉食之醣類分解較植物性之醣類分解為複
 B08n0026_p0383a24_##雜也。
 B08n0026_p0383a25_##<p,2>（二）脂肪：其能作營養者在於脂酸（Fatty Acid）分有硬脂（Stearin），即甘油基
-B08n0026_p0383a26_##硬脂酸（C<sub>3</sub>H<sub>5</sub>（C<sub>18</sub>H<sub>35</sub>O<sub>2</sub>）<sub>3</sub>）；軟脂，即甘油基[軟>油]脂酸（C<sub>3</sub>H<sub>5</sub>（C<sub>16</sub>H<sub>31</sub>O<sub>2</sub>）<sub>3</sub>）；及油
-B08n0026_p0383a27_##脂（Olein），即甘油基油脂酸（C<sub>3</sub>H<sub>5</sub>（C<sub>16</sub>H<sub>33</sub>O<sub>2</sub>）<sub>3</sub>）。尚有含氮、磷等元素。此等
+B08n0026_p0383a26_##硬脂酸（<formula>C<sub>3</sub>H<sub>5</sub>(C<sub>18</sub>H<sub>35</sub>O<sub>2</sub>)<sub>3</sub></formula>）；軟脂，即甘油基[軟>油]脂酸（<formula>C<sub>3</sub>H<sub>5</sub>(C<sub>16</sub>H<sub>31</sub>O<sub>2</sub>)<sub>3</sub></formula>）；及油
+B08n0026_p0383a27_##脂（Olein），即甘油基油脂酸（<formula>C<sub>3</sub>H<sub>5</sub>(C<sub>16</sub>H<sub>33</sub>O<sub>2</sub>)<sub>3</sub></formula>）。尚有含氮、磷等元素。此等
 B08n0026_p0383a28_##脂肪存在動物植物中，故其脂酸之來源亦有動植物之不同，如：
 B08n0026_p0383b01_##<p,2>（1）植物性之脂肪來自菜油、豆油、茶籽油、花生油、芝蔴油，及硬果類之油，如
-B08n0026_p0383b02_##欖油、椰子油、杏仁油，此等所含之脂酸有荳蔻脂酸（Myristic Acid CH<sub>3</sub>（(CH<sub>2</sub>)<sub>12</sub>
-B08n0026_p0383b03_##COOH）、軟脂酸（Palmitin Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>14</sub>COOH）、油酸（Olein Acid C<sub>17</sub>H<sub>33</sub>
-B08n0026_p0383b04_##COOH）、亞麻油酸又曰棉子脂酸（Linoleic Acid C<sub>17</sub>H<sub>31</sub>COOH）、亞麻油烯酸又曰亞
-B08n0026_p0383b05_##亞子油脂酸（Linolenic Acid C<sub>17</sub>H<sub>29</sub>COOH）、花生油烯酸（Arachidonic Acid C<sub>19</sub>
-B08n0026_p0383b06_##H<sub>31</sub>COOH）。亦有來自椰子油之脂肪，如：1.羊油酸（Caproic Acid CH<sub>2</sub>(CH<sub>2</sub>)<sub>4</sub>
-B08n0026_p0383b07_##COOH），2.羊脂酸（Caprylic Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>COOH），3.羊臘酸（Capric Acid
-B08n0026_p0383b08_## CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>COOH），此三種椰子油脂酸與來自動物之羊油酸、羊脂酸、羊臘酸同
+B08n0026_p0383b02_##欖油、椰子油、杏仁油，此等所含之脂酸有荳蔻脂酸（Myristic Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>12</sub>
+B08n0026_p0383b03_##COOH</formula>）、軟脂酸（Palmitin Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>14</sub>COOH</formula>）、油酸（Olein Acid <formula>C<sub>17</sub>H<sub>33</sub>
+B08n0026_p0383b04_##COOH</formula>）、亞麻油酸又曰棉子脂酸（Linoleic Acid <formula>C<sub>17</sub>H<sub>31</sub>COOH</formula>）、亞麻油烯酸又曰亞
+B08n0026_p0383b05_##亞子油脂酸（Linolenic Acid <formula>C<sub>17</sub>H<sub>29</sub>COOH</formula>）、花生油烯酸（Arachidonic Acid <formula>C<sub>19</sub>
+B08n0026_p0383b06_##H<sub>31</sub>COOH</formula>）。亦有來自椰子油之脂肪，如：1.羊油酸（Caproic Acid <formula>CH<sub>2</sub>(CH<sub>2</sub>)<sub>4</sub>
+B08n0026_p0383b07_##COOH</formula>），2.羊脂酸（Caprylic Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>COOH</formula>），3.羊臘酸（Capric Acid
+B08n0026_p0383b08_## CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>COOH</formula>），此三種椰子油脂酸與來自動物之羊油酸、羊脂酸、羊臘酸同
 B08n0026_p0383b09_##分子式。此等脂肪以亞麻油酸，及亞麻油烯酸、花生油烯酸、為最重要，有調節生
 B08n0026_p0383b10_##理之功能。因三者乃屬不飽和脂酸，能溶解維生素 A、D、E、K，促進此四種維生素
 B08n0026_p0383b11_##之吸收及利用。此等脂酸皆來自胡麻子油、菜油、豆油、花生油等。熱血之動物不
@@ -21104,10 +21104,10 @@ B08n0026_p0383b12_##能組合亞麻油酸及亞麻油烯酸，所以此二種脂
 B08n0026_p0383b13_##三種之脂酸，久之則影響腦部而生種種病徵，及生皮膚病、眼病、生育反常，及減
 B08n0026_p0383b14_##少乳汁分泌等現象。可知植物性之脂肪頗為重要。
 B08n0026_p0383b15_##<p,2>（2）動物性之脂肪來自牛、羊、猪、雞、鴨、鵝等，以肥肉為多。含有酪酸
-B08n0026_p0383b16_##（Butyric Acid）CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>COOH）、羊油酸（Caproic Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>COOH）、
-B08n0026_p0383b17_##羊脂酸（Caprylic Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>COOH）、羊臘酸（Capric Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>
-B08n0026_p0383b18_##COOH）、軟脂酸（Palmitic Acid CH<sub>3</sub>(CH<sub>2</sub>)<sub>14</sub>COOH）、硬脂酸（Stearic Acid CH<sub>3</sub>
-B08n0026_p0383b19_##(CH<sub>2</sub>)<sub>16</sub>COOH），及來自魚油、肝油、腦脊及骨等之花生油烯酸（其分子式與花
+B08n0026_p0383b16_##（Butyric Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>2</sub>COOH</formula>）、羊油酸（Caproic Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>4</sub>COOH</formula>）、
+B08n0026_p0383b17_##羊脂酸（Caprylic Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>COOH</formula>）、羊臘酸（Capric Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>
+B08n0026_p0383b18_##COOH</formula>）、軟脂酸（Palmitic Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>14</sub>COOH</formula>）、硬脂酸（Stearic Acid <formula>CH<sub>3</sub>
+B08n0026_p0383b19_##(CH<sub>2</sub>)<sub>16</sub>COOH</formula>），及來自魚油、肝油、腦脊及骨等之花生油烯酸（其分子式與花
 B08n0026_p0383b20_##生油同）。又脂酸之化合物如胆固醇脂（Cholesterol）、磷脂化物（如卵磷脂，腦磷
 B08n0026_p0383b21_##脂），與糖脂化物等等。
 B08n0026_p0383b22_##<p,2>脂肪在口腔不被唾液消化，牙齒將肉片磨碎吞下，胃液之鹽酸即溶解脂肪膜，胃液
@@ -21140,7 +21140,7 @@ B08n0026_p0384a20_##<p,2>（B）衍化蛋白質類（Derired Proteins）此乃�
 B08n0026_p0384a21_##質，凝固蛋白再而為蛋白嘌蛋白脨等。
 B08n0026_p0384a22_##<p,2>（C）合併蛋白質類（Conjugated Proteins）此乃蛋白質與其他物質合併所成，如卵
 B08n0026_p0384a23_##脂蛋白，糖蛋白，磷蛋白，含色蛋白，核蛋白等，上述各種蛋白質類，均來自動
-B08n0026_p0384a24_##植物中，其主要之構造為氨基酸（——NH<sub>2</sub>）及脂酸（——COOH）單就氨基酸而
+B08n0026_p0384a24_##植物中，其主要之構造為氨基酸（——<formula>NH<sub>2</sub></formula>）及脂酸（——<formula>COOH</formula>）單就氨基酸而
 B08n0026_p0384a25_##言，亦有為體內所必需之別。必需氨基酸之蛋白質為完全蛋白質，若缺少任何一種
 B08n0026_p0384a26_##必需氨基酸之蛋白質，則稱為不完全蛋白質。現將動物性之完全蛋白質及植物性之
 B08n0026_p0384a27_##完全蛋白質，分別舉之於次：
