@@ -21096,7 +21096,7 @@ B08n0026_p0383b04_##COOH</formula>）、亞麻油酸又曰棉子脂酸（Linolei
 B08n0026_p0383b05_##亞子油脂酸（Linolenic Acid <formula>C<sub>17</sub>H<sub>29</sub>COOH</formula>）、花生油烯酸（Arachidonic Acid <formula>C<sub>19</sub>
 B08n0026_p0383b06_##H<sub>31</sub>COOH</formula>）。亦有來自椰子油之脂肪，如：1.羊油酸（Caproic Acid <formula>CH<sub>2</sub>(CH<sub>2</sub>)<sub>4</sub>
 B08n0026_p0383b07_##COOH</formula>），2.羊脂酸（Caprylic Acid <formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>6</sub>COOH</formula>），3.羊臘酸（Capric Acid
-B08n0026_p0383b08_## CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>COOH</formula>），此三種椰子油脂酸與來自動物之羊油酸、羊脂酸、羊臘酸同
+B08n0026_p0383b08_##<formula>CH<sub>3</sub>(CH<sub>2</sub>)<sub>8</sub>COOH</formula>），此三種椰子油脂酸與來自動物之羊油酸、羊脂酸、羊臘酸同
 B08n0026_p0383b09_##分子式。此等脂肪以亞麻油酸，及亞麻油烯酸、花生油烯酸、為最重要，有調節生
 B08n0026_p0383b10_##理之功能。因三者乃屬不飽和脂酸，能溶解維生素 A、D、E、K，促進此四種維生素
 B08n0026_p0383b11_##之吸收及利用。此等脂酸皆來自胡麻子油、菜油、豆油、花生油等。熱血之動物不
