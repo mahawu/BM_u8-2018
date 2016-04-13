@@ -14491,489 +14491,489 @@ B35n0196_p0858a03_##
 B35n0196_p0858a04Ff#<c2><p,8>大乘中宗見解
 B35n0196_p0858a05_f#<c2><p,8>（De Śiṅ Cuṅ Tsoṅ Kyen He）
 B35n0196_p0858a06_##
-B35n0196_p0858a07_f#<cr4>〔一〕<c>〔外〕四大、問、何者內四大。答、骨定堅硬
+B35n0196_p0858a07_f#<c r4>〔一〕<c>〔外〕四大、問、何者內四大。答、骨定堅硬
 B35n0196_p0858a08_f#<c>〔ẖgve〕si d〔e〕. Bun:〔ha〕〔ja〕ẖdve si de? Tab:〔ku〕r〔`zu〕g kyen ẖgeẖu
 B35n0196_p0858a09_f#<c>以為地大。
 B35n0196_p0858a10_f#<c>yi ẖu di de :
-B35n0196_p0858a11_f#<cr4>〔二〕<c>血髓津潤是名水大、體之溫暖以為火
+B35n0196_p0858a11_f#<c r4>〔二〕<c>血髓津潤是名水大、體之溫暖以為火
 B35n0196_p0858a12_f#<c>hyar〔su〕tsin〔`zun〕śi mye śu〔de〕: 〔the〕tsi（ci?）'on ẖdvan ẖi ẖu hva
 B35n0196_p0858a13_f#<c>大。出息入息以
 B35n0196_p0858a14_f#<c>〔de〕: chur〔sig〕`zib sig〔ẖi〕.
-B35n0196_p0859a01_f#<cr4>〔三〕<c>為風大。〔問〕、何者空識二大。答、空大者虛通
+B35n0196_p0859a01_f#<c r4>〔三〕<c>為風大。〔問〕、何者空識二大。答、空大者虛通
 B35n0196_p0859a02_f#<c>ẖu phuṅ de. Ha ja khoṅ〔ś〕ig〔`zi〕〔de〕? Tab: khoṅ de ja hu thuṅ
 B35n0196_p0859a03_f#<c>分也。識大者了
 B35n0196_p0859a04_f#<c>phun ya: śig de ja le ẖu
-B35n0196_p0859a05_f#<cr4>〔四〕<c>別心也。問、此四大因內四大感得外四大、
+B35n0196_p0859a05_f#<c r4>〔四〕<c>別心也。問、此四大因內四大感得外四大、
 B35n0196_p0859a06_f#<c>phar〔s〕im ya.〔Bun〕:〔tshi〕si de 'in〔ẖdve〕〔si〕de gvam tig ẖgve〔si〕〔de〕:
 B35n0196_p0859a07_f#<c>因外四大感得內四
 B35n0196_p0859a08_f#<c>'in ẖgve si〔de〕gvam tig〔ẖdve〕〔si〕
-B35n0196_p0859a09_f#<cr4>〔五〕<c>大。答、因內感外。問、何者內感外。答、內
+B35n0196_p0859a09_f#<c r4>〔五〕<c>大。答、因內感外。問、何者內感外。答、內
 B35n0196_p0859a10_f#<c>de? Tab:〔`in〕ẖdve gvam ẖgve: Bun: ha ja ẖdv〔e〕gvam 'ẖgve? Tab: ẖdve
 B35n0196_p0859a11_f#<c>有骨定堅硬(一)忘（妄）
 B35n0196_p0859a12_f#<c>yi ẖu kor `zug kyan ẖge ẖu boṅ
-B35n0196_p0859a13_f#<cr4>〔六〕<c>相（想）敢（感）得外地大。內有津潤忘（妄）相（想）敢（感）得外
+B35n0196_p0859a13_f#<c r4>〔六〕<c>相（想）敢（感）得外地大。內有津潤忘（妄）相（想）敢（感）得外
 B35n0196_p0859a14_f#<c>syoṅ gvam tig hgve di de: ẖdve〔yi ẖu〕〔tsin〕`zun boṅ syoṅ〔gvam〕tig ẖgve
 B35n0196_p0860a01_f#<c>水大。內溫暖忘（妄）相（想）
 B35n0196_p0860a02_f#<c>śu de: ẖdve 'on〔ẖdvan〕boṅ syoṅ
-B35n0196_p0860a03_f#<cr4>〔七〕<c>敢（感）得外火大。內有出入息忘（妄）相（想）敢（感）得
+B35n0196_p0860a03_f#<c r4>〔七〕<c>敢（感）得外火大。內有出入息忘（妄）相（想）敢（感）得
 B35n0196_p0860a04_f#<c>gvam tig ẖgve hva de: ẖdve〔yi ẖu〕chud〔`z〕ib syig〔boṅ〕syoṅ gvam〔tig〕
 B35n0196_p0860a05_f#<c>外風大。問、何者是五薀。
 B35n0196_p0860a06_f#<c>ẖgve pu〔ṅ〕de. Bun: ha ja śi〔ẖgo〕ẖun?
-B35n0196_p0860a07_f#<cr4>〔八〕<c>答、色受相（想）行識、是五薀。問、何者是名色薀。〔答〕形
+B35n0196_p0860a07_f#<c r4>〔八〕<c>答、色受相（想）行識、是五薀。問、何者是名色薀。〔答〕形
 B35n0196_p0860a08_f#<c>Tab: śeg śi ẖu syoṅ heṅ śig śi ẖgo 'un. Bun: ha ja śi〔`mye〕śeg 'un? Hyeṅ
 B35n0196_p0860a09_f#<c>礙以色薀。〔問〕何
 B35n0196_p0860a10_f#<c>ẖge yi śeg 'un. Ha
-B35n0196_p0860a11_f#<cr4>〔九〕<c>者受薀。〔答〕領納為受薀。〔問〕何者相（想）薀。〔答〕思想以
+B35n0196_p0860a11_f#<c r4>〔九〕<c>者受薀。〔答〕領納為受薀。〔問〕何者相（想）薀。〔答〕思想以
 B35n0196_p0860a12_f#<c>ja śi ẖu 'un? Tab: leṅ ẖdab ẖu śi ẖu 'un. Ha ja syoṅ〔ún〕? Si syoṅ yi
 B35n0196_p0860a13_f#<c>為想薀。
 B35n0196_p0860a14_f#<c>ẖu sy〔o〕ṅ 'un.
-B35n0196_p0861a01_f#<cr4>〔一○〕<c>〔問〕何者行薀。〔答〕造作以為行薀。〔問〕何者是識薀。〔答〕分
+B35n0196_p0861a01_f#<c r4>〔一○〕<c>〔問〕何者行薀。〔答〕造作以為行薀。〔問〕何者是識薀。〔答〕分
 B35n0196_p0861a02_f#<c> Ha ja heṅ 'un? Tshehu tsa'g yi hu heṅ〔'un〕. Ha ja śi śig 'un? Phun
 B35n0196_p0861a03_f#<c>別以為識薀。(二)何
 B35n0196_p0861a04_f#<c>par yi ẖu śig 'un. Ha
-B35n0196_p0861a05_f#<cr4>〔一一〕<c>問、薀者何義。答、薀者據聚之義。〔問〕何者名為蔭。〔答〕是
+B35n0196_p0861a05_f#<c r4>〔一一〕<c>問、薀者何義。答、薀者據聚之義。〔問〕何者名為蔭。〔答〕是
 B35n0196_p0861a06_f#<c>bun 'un ja ha ẖgi? Tab: 'un ja gi su ci〔ẖgi〕. Ha ja mye ẖu 'im? Śi
 B35n0196_p0861a07_f#<c>(三)蔭（名）
 B35n0196_p0861a08_f#<c>'im〔mye〕
-B35n0196_p0861a09_f#<cr4>〔一二〕<c>覆蓋之義。問何者是十八界。答、六根六塵六識是十
+B35n0196_p0861a09_f#<c r4>〔一二〕<c>覆蓋之義。問何者是十八界。答、六根六塵六識是十
 B35n0196_p0861a10_f#<c>phu ke ci ẖgi. Bun: ha ja śi śib par ke? Tab: lug k〔in〕lug chin lug śig śi śib
 B35n0196_p0861a11_f#<c>八界。
 B35n0196_p0861a12_f#<c>par ke.
-B35n0196_p0861a13_f#<cr2>〔一三〕<c>問、何者是六根。答、眼耳鼻舌身意是為六根。問、何者是
+B35n0196_p0861a13_f#<c r2>〔一三〕<c>問、何者是六根。答、眼耳鼻舌身意是為六根。問、何者是
 B35n0196_p0861a14_f#<c>Bun: ha ja śi lug kiñ? Tab: ẖgen `zi phyi śar śin 'i śi ẖu lu`g kin. Bun: ha ja śi
-B35n0196_p0862a01_f#<cr4>〔一四〕<c>六塵。答、〔色〕聲香味觸法是六塵。問、何者是六
+B35n0196_p0862a01_f#<c r4>〔一四〕<c>六塵。答、〔色〕聲香味觸法是六塵。問、何者是六
 B35n0196_p0862a02_f#<c>lug chin? Tab:〔śeg〕śe〔ṅ〕hoṅ byi chog phab śi lug chin. Bun: ha ja śi lug
 B35n0196_p0862a03_f#<c>識。〔答〕眼識耳識
 B35n0196_p0862a04_f#<c>śig? H〔gy〕en〔ś〕ig `zi śig
-B35n0196_p0862a05_f#<cr2>〔一五〕<c>鼻識舌識身識意識是十八界。問、何者十二入。答、眼
+B35n0196_p0862a05_f#<c r2>〔一五〕<c>鼻識舌識身識意識是十八界。問、何者十二入。答、眼
 B35n0196_p0862a06_f#<c>pyi śig śar śig śin śig 'i śig śi śib par ke Bun: ha〔ja〕śim `zi〔`zib〕? Tab: ẖgen
-B35n0196_p0862a07_f#<cr2>〔一六〕<c>入耳入鼻入舌入身入意入、色入聲入香入味入觸
+B35n0196_p0862a07_f#<c r2>〔一六〕<c>入耳入鼻入舌入身入意入、色入聲入香入味入觸
 B35n0196_p0862a08_f#<c>`zib `zi `zib phyi `zib śar `zib śin `zib 'i `zib śeg `zib śeṅ `zib hoṅ `zib hbyi `zib chog
-B35n0196_p0862a09_f#<cr4>〔一七〕<c>入〔法入〕。眼等六根為內六入。色等六塵為外
+B35n0196_p0862a09_f#<c r4>〔一七〕<c>入〔法入〕。眼等六根為內六入。色等六塵為外
 B35n0196_p0862a10_f#<c>`zib〔phab `zib〕: ẖgvan diṅ lug kin ẖu ẖdve lug `zib: śeg diṅ lug chin ẖu ẖgve
 B35n0196_p0862a11_f#<c>六入。內外二六
 B35n0196_p0862a12_f#<c>lug `zib: ẖdve gve `zi lug
-B35n0196_p0862a13_f#<cr4>〔一八〕<c>為十二。〔問、何者為入〕。答、眼塵且對通生識
+B35n0196_p0862a13_f#<c r4>〔一八〕<c>為十二。〔問、何者為入〕。答、眼塵且對通生識
 B35n0196_p0862a14_f#<c>ẖu śim `zi〔Bun ^ha ja ẖu `zib?〕Tab. ẖgen chin〔tshya〕dve thoṅ śeṅ śig
 B35n0196_p0863a01_f#<c>道、受入愛憎、名之
 B35n0196_p0863a02_f#<c>de ẖu śi ẖu `zib 'iẖi tsiṅ myi（sic）ci
-B35n0196_p0863a03_f#<cr4>〔一九〕<c>為入。〔問〕每聞道、歸依三寶。何者是三寶。答、佛
+B35n0196_p0863a03_f#<c r4>〔一九〕<c>為入。〔問〕每聞道、歸依三寶。何者是三寶。答、佛
 B35n0196_p0863a04_f#<c>ẖu `zib. ẖbe bun de ẖu ku 'i sam pe ẖu. Ha ja śi〔sam〕pe ẖu? Tab: phur
 B35n0196_p0863a05_f#<c>寶法寶
 B35n0196_p0863a06_f#<c>pe ẖu phab pe ẖu
-B35n0196_p0863a07_f#<cr4>〔二○〕<c>僧寶是名三寶。問、三寶有幾種。答、有三種。
+B35n0196_p0863a07_f#<c r4>〔二○〕<c>僧寶是名三寶。問、三寶有幾種。答、有三種。
 B35n0196_p0863a08_f#<c>siṅ pe ẖu śi mye sam pe ẖu. Bun: sam pe ẖu yi ẖu gi juṅ? Tab: yi ẖu sam ju〔ṅ〕
 B35n0196_p0863a09_f#<c>問、何者是
 B35n0196_p0863a10_f#<c>Bun: ha ja śi
-B35n0196_p0863a11_f#<cr4>〔二一〕<c>三寶。答。（四）一體三寶、別想（相）三寶、住持三
+B35n0196_p0863a11_f#<c r4>〔二一〕<c>三寶。答。（四）一體三寶、別想（相）三寶、住持三
 B35n0196_p0863a12_f#<c>sam pe ẖu（juṅ）? Tab: 'ir the sam pe ẖu phar syaṅ sam pe ẖu chu ch〔i〕sam
 B35n0196_p0863a13_f#<c>寶、是名三種。問、
 B35n0196_p0863a14_f#<c>pe ẖu śi mye sam pe ẖu（juṅ）Bun:
-B35n0196_p0864a01_f#<cr4>〔二二〕<c>何者一體三寶。答、法身體有妙覺以為佛
+B35n0196_p0864a01_f#<c r4>〔二二〕<c>何者一體三寶。答、法身體有妙覺以為佛
 B35n0196_p0864a02_f#<c>ha ja 'i〔r〕the sam pe ẖu? Tab: phab śin the yi ẖu ẖbye ẖu ka〔g〕ẖi ẖu phur
 B35n0196_p0864a03_f#<c>寶。(五)以（法）身
 B35n0196_p0864a04_f#<c>pe ẖu: phab śin
-B35n0196_p0864a05_f#<cr4>〔二三〕<c>體有妙軌以為(六)妙法寶。法身體有離(六)無
+B35n0196_p0864a05_f#<c r4>〔二三〕<c>體有妙軌以為(六)妙法寶。法身體有離(六)無
 B35n0196_p0864a06_f#<c>the yi ẖu ẖbye ẖu gu .ẖi ẖu ẖbye ẖu phab pe ẖu: phab śin the〔'iẖu〕li ẖbu
 B35n0196_p0864a07_f#<c>違爭、士（是）故
 B35n0196_p0864a08_f#<c>wu（ẖu?）jeṅ śi ko
-B35n0196_p0864a09_f#<cr4>〔二四〕<c>以為僧寶。問、云何名為妙覺。答、妙者神用
+B35n0196_p0864a09_f#<c r4>〔二四〕<c>以為僧寶。問、云何名為妙覺。答、妙者神用
 B35n0196_p0864a10_f#<c>yi ẖu siṅ pe ẖu. Bun: ẖun ha mye ẖu（ẖbye ẖu）kag? Tab: ẖbye ẖu ja śin yoṅ
 B35n0196_p0864a11_f#<c>不側稱之
 B35n0196_p0864a12_f#<c>ẖbu cheg〔khyiṅ〕ci
-B35n0196_p0864a13_f#<cr4>〔二五〕<c>為妙。覺者、以法身體中覺了性故、故云妙
+B35n0196_p0864a13_f#<c r4>〔二五〕<c>為妙。覺者、以法身體中覺了性故、故云妙
 B35n0196_p0864a14_f#<c>ẖu ẖbye ẖu: kag ja ẖi phab śin the ẖi cuṅ kag le ẖu seṅ ko ko ẖun ẖbye ẖu
 B35n0196_p0865a01_f#<c>覺。問、云何
 B35n0196_p0865a02_f#<c>kag. Bun: ẖun ha
-B35n0196_p0865a03_f#<cr4>〔二六〕<c>妙軌。答、軌者軌則之義。以法身體中(七)中有妙
+B35n0196_p0865a03_f#<c r4>〔二六〕<c>妙軌。答、軌者軌則之義。以法身體中(七)中有妙
 B35n0196_p0865a04_f#<c>ẖbye ẖu guhi? Tab. gu ja gu tsig ci ẖgi: yi phab śin the cuṅ cuṅ yi ẖu ẖb.ye ẖu
 B35n0196_p0865a05_f#<c>軌持
 B35n0196_p0865a06_f#<c>gu ẖu chi
-B35n0196_p0865a07_f#<cr4>〔二七〕<c>義故、故云妙軌。問、云何離違爭。答、僧者和合
+B35n0196_p0865a07_f#<c r4>〔二七〕<c>義故、故云妙軌。問、云何離違爭。答、僧者和合
 B35n0196_p0865a08_f#<c>hgi go go hun hbychu gu. Bū: hun ha li〔h〕u jeṅ? Tab: siṅ ja hva hvab
 B35n0196_p0865a09_f#<c>為義、
 B35n0196_p0865a10_f#<c>hu hgi
-B35n0196_p0865a11_f#<cr4>〔二八〕<c>法身无相故則無爭、故言體無違爭、名之為僧。
+B35n0196_p0865a11_f#<c r4>〔二八〕<c>法身无相故則無爭、故言體無違爭、名之為僧。
 B35n0196_p0865a12_f#<c>phab śin ẖbu syaṅ ko tsig ẖbu jeṅ ko ẖgen the ẖi ẖbu wu jeṅ mye ci ẖu siṅ.
 B35n0196_p0865a13_f#<c>問
 B35n0196_p0865a14_f#<c>Bun:
-B35n0196_p0866a01_f#<cr2>〔二九〕<c>何者為一體。答、三寶名殊、其體不異故、名一體。問、
+B35n0196_p0866a01_f#<c r2>〔二九〕<c>何者為一體。答、三寶名殊、其體不異故、名一體。問、
 B35n0196_p0866a02_f#<c>ha ja ẖu 'ir the? Tab: sam pe ẖu mye śu khi the ẖbu yi ko mye 'ir the. Bun:
-B35n0196_p0866a03_f#<cr4>〔三○〕<c>何以得知三寶名殊其體是一。答、(八)維摩經云「佛
+B35n0196_p0866a03_f#<c r4>〔三○〕<c>何以得知三寶名殊其體是一。答、(八)維摩經云「佛
 B35n0196_p0866a04_f#<c>ha ẖi tig ci sam〔pe ẖu〕mye śu khi the śi 'ir? Tab: yu ẖba gyeṅ ẖun phur
 B35n0196_p0866a05_f#<c>即是
 B35n0196_p0866a06_f#<c>tsig śi
-B35n0196_p0866a07_f#<cr4>〔三一〕<c>法、々即是眾。是三寶皆無為相、與虛空等」。納
+B35n0196_p0866a07_f#<c r4>〔三一〕<c>法、々即是眾。是三寶皆無為相、與虛空等」。納
 B35n0196_p0866a08_f#<c>phab〔phab〕tsig śi juṅ śi sam pe ẖu ke ẖbu ẖu syoṅ yi hu khoṅ diṅ ẖda〔b〕
 B35n0196_p0866a09_f#<c>此義
 B35n0196_p0866a10_f#<c>tshi ẖgi
-B35n0196_p0866a11_f#<cr4>〔三二〕<c>邊故名一體。問、云何名為別相三寶。答、(九)六
+B35n0196_p0866a11_f#<c r4>〔三二〕<c>邊故名一體。問、云何名為別相三寶。答、(九)六
 B35n0196_p0866a12_f#<c>phyan ko mye 'ir the. Bun: ẖun ha mye ẖu〔phar〕syaṅ sam pe ẖu? Tab: lug
 B35n0196_p0866a13_f#<c>丈（丈六）化身
 B35n0196_p0866a14_f#<c>〔ch〕o〔ṅ〕hva śiu
-B35n0196_p0867a01_f#<cr4>〔三三〕<c>以為佛寶。所說言教以為法寶。大乘十信已
+B35n0196_p0867a01_f#<c r4>〔三三〕<c>以為佛寶。所說言教以為法寶。大乘十信已
 B35n0196_p0867a02_f#<c>yi ẖu phur pe ẖu: śu śva〔r〕ẖge ke ẖu yi ẖu phab pe ẖu: de〔śiṅ〕śib sin〈yi〉
 B35n0196_p0867a03_f#<c>上、小
 B35n0196_p0867a04_f#<c>〈śaṅ〉〈śi ẖu〉
-B35n0196_p0867a05_f#<cr4>〔三四〕<c>乘初果已上、以為僧寶。問、何名別相。答、一
+B35n0196_p0867a05_f#<c r4>〔三四〕<c>乘初果已上、以為僧寶。問、何名別相。答、一
 B35n0196_p0867a06_f#<c>śiṅ chu gva〈yi〉〈śaṅ〉 yi ẖu siṅ pe ẖu Bun: ha mye phar〔syaṅ〕? Tab: 'ir
 B35n0196_p0867a07_f#<c>々相殊、
 B35n0196_p0867a08_f#<c>'ir syaṅ〔śu〕
-B35n0196_p0867a09_f#<cr4>〔三五〕<c>名為別相。問、云何一一相殊。答、佛寶不是
+B35n0196_p0867a09_f#<c r4>〔三五〕<c>名為別相。問、云何一一相殊。答、佛寶不是
 B35n0196_p0867a10_f#<c>mye ẖu phar syaṅ. Bun: ẖun ha 'ir 'ir〔syaṅ〕śu? Tab: phur pe ẖu ẖbu śi
 B35n0196_p0867a11_f#<c>法。々不是眾、
 B35n0196_p0867a12_f#<c>phab: phab ẖbu śi juṅ
-B35n0196_p0867a13_f#<cr4>〔三六〕<c>形狀不同故名別相。問、云何名為住持三
+B35n0196_p0867a13_f#<c r4>〔三六〕<c>形狀不同故名別相。問、云何名為住持三
 B35n0196_p0867a14_f#<c>heṅ tshoṅ ẖbu thoṅ ko mye phar syaṅ Bun: ẖun ha mye ẖu siṅ（sic）chi sam
 B35n0196_p0868a01_f#<c>寶。答、泥龕
 B35n0196_p0868a02_f#<c>pe ẖu? Tab: ẖde kham
-B35n0196_p0868a03_f#<cr4>〔三七〕<c>素像以為佛寶。紙素竹帛以法寶。剃髮染
+B35n0196_p0868a03_f#<c r4>〔三七〕<c>素像以為佛寶。紙素竹帛以法寶。剃髮染
 B35n0196_p0868a04_f#<c>so syaṅ yi ẖu phur pe ẖu: tsi so ts〔i〕g pheg yihu phab pe ẖu: the ẖi phar zam
 B35n0196_p0868a05_f#<c>依（衣）
 B35n0196_p0868a06_f#<c>〔'i〕
-B35n0196_p0868a07_f#<cr4>〔三八〕<c>以為僧寶。問、何者住持像法。〔答〕令不斷絕
+B35n0196_p0868a07_f#<c r4>〔三八〕<c>以為僧寶。問、何者住持像法。〔答〕令不斷絕
 B35n0196_p0868a08_f#<c>yi ẖu siṅ pe ẖu Bun: Ha ja chu chi syaṅ（sio）phab? Leṅ ẖbu dvan tshvar
 B35n0196_p0868a09_f#<c>故名住持。
 B35n0196_p0868a10_f#<c>ko mye chu chi.
-B35n0196_p0868a11_f#<cr4>〔三九〕<c>問、何名像法。答、像法似之法故名像法。問、
+B35n0196_p0868a11_f#<c r4>〔三九〕<c>問、何名像法。答、像法似之法故名像法。問、
 B35n0196_p0868a12_f#<c>Bun: ha mye syoṅ phab? Tab: syoṅ phab si ci phab ko mye syoṅ phab. Bun:
 B35n0196_p0868a13_f#<c>此三種三寶為
 B35n0196_p0868a14_f#<c>tshi sam juṅ sam pe ẖu ẖu
-B35n0196_p0869a01_f#<cr4>〔四○〕<c>一、為異。〔答、不一不異。〕問、云何不一不異。答、名別故
+B35n0196_p0869a01_f#<c r4>〔四○〕<c>一、為異。〔答、不一不異。〕問、云何不一不異。答、名別故
 B35n0196_p0869a02_f#<c>'ir ẖu yi? Bun: ẖun ha ẖbu 'ir ẖbu yi? Tab: mye phar ko
 B35n0196_p0869a03_f#<c>不一、體同故名不異。
 B35n0196_p0869a04_f#<c>ẖbu 'ir: the thoṅ ko mye ẖbu yi.
-B35n0196_p0869a05_f#<cr4>〔四一〕<c>問、有不可得、无亦不可得。答、離有離無。問、
+B35n0196_p0869a05_f#<c r4>〔四一〕<c>問、有不可得、无亦不可得。答、離有離無。問、
 B35n0196_p0869a06_f#<c>Bun: yi ẖu ẖbu〈kha〉 tig ẖbu yi ẖbu〈kha〉 tig? Tab: li yi ẖu li ẖbu Bun:
 B35n0196_p0869a07_f#<c>云何離有、云
 B35n0196_p0869a08_f#<c>ẖun ha li yi ẖu. ẖun
-B35n0196_p0869a09_f#<cr4>〔四二〕<c>何離无。答、自性離故。問、自性共甚離。答、本
+B35n0196_p0869a09_f#<c r4>〔四二〕<c>何離无。答、自性離故。問、自性共甚離。答、本
 B35n0196_p0869a10_f#<c>ha li hbu? Tab: tshi syeṅ li ko. Bun: tshi syeṅ khuṅ śyim li? Tab: bun
 B35n0196_p0869a11_f#<c>性理中有無
 B35n0196_p0869a12_f#<c>syeṅ li cuṅ yi ẖu ẖbu
-B35n0196_p0869a13_f#<cr4>〔四三〕<c>具（俱）不可得。問、畢竟(一○)喙（噯）作甚謨（恁麼）物。答、
+B35n0196_p0869a13_f#<c r4>〔四三〕<c>具（俱）不可得。問、畢竟(一○)喙（噯）作甚謨（恁麼）物。答、
 B35n0196_p0869a14_f#<c>khu ẖbu〈kha〉 tig. Bun: pyir keṅ hvan〔tsa〕g śim ma bur? Tab:
 B35n0196_p0870a01_f#<c>法身不自名。問、
 B35n0196_p0870a02_f#<c>phab śin ẖbu tshi mye. Bun:
-B35n0196_p0870a03_f#<cr4>〔四四〕<c>說有四諦、何者是四諦。答、(一一)大乘四諦、小乘四諦。問、
+B35n0196_p0870a03_f#<c r4>〔四四〕<c>說有四諦、何者是四諦。答、(一一)大乘四諦、小乘四諦。問、
 B35n0196_p0870a04_f#<c>śvar yi ẖu si de: ha ja śi si de? Tab: de śiṅ si de〈śi ẖu〉 śiṅ si de. Bun:
 B35n0196_p0870a05_f#<c>何者
 B35n0196_p0870a06_f#<c>ha ja
-B35n0196_p0870a07_f#<cr4>〔四五〕<c>是大乘四諦。答、知無生是名苦諦。知集无和合
+B35n0196_p0870a07_f#<c r4>〔四五〕<c>是大乘四諦。答、知無生是名苦諦。知集无和合
 B35n0196_p0870a08_f#<c>śi de śiṅ si de? Tab: kho ẖbu śeṅ śi mye kho de. kho tshib ẖbu hva hvab
 B35n0196_p0870a09_f#<c>是集諦。
 B35n0196_p0870a10_f#<c>śi tshib de.
-B35n0196_p0870a11_f#<cr4>〔四六〕<c>知滅无滅是名滅諦。以無二法得道是名道
+B35n0196_p0870a11_f#<c r4>〔四六〕<c>知滅无滅是名滅諦。以無二法得道是名道
 B35n0196_p0870a12_f#<c>kho ẖbyer ẖbu ẖbyer śi mye ẖbyer de. yi ẖbu `zi phab tig de ẖu śi mye dehu
 B35n0196_p0870a13_f#<c>諦。問、何
 B35n0196_p0870a14_f#<c>de. Bun: ha
-B35n0196_p0871a01_f#<cr2>〔四七〕<c>者小乘四諦。答、生死果為苦諦。煩惱業為集諦。
+B35n0196_p0871a01_f#<c r2>〔四七〕<c>者小乘四諦。答、生死果為苦諦。煩惱業為集諦。
 B35n0196_p0871a02_f#<c>ja〈śi ẖu〉 śiṅ si de? Tab: śeṅ si gva ẖu kho de: phan ẖde ẖgeb ẖu tshib de:
-B35n0196_p0871a03_f#<cr4>〔四八〕<c>寂滅理為滅諦。戒定惠為道諦。〔問〕既言生死
+B35n0196_p0871a03_f#<c r4>〔四八〕<c>寂滅理為滅諦。戒定惠為道諦。〔問〕既言生死
 B35n0196_p0871a04_f#<c>tshi〔g〕ẖbyer li ẖu〔ẖbyer〕de: ke deṅ hve ẖu de ẖu de Gi ẖgen śeṅ si
 B35n0196_p0871a05_f#<c>果、何者生死因。
 B35n0196_p0871a06_f#<c>gva. Ha ja śeṅ si 'in?
-B35n0196_p0871a07_f#<cr4>〔四九〕<c>答、集是生死因。問、記（既）言生死果亦(一二)合有無
+B35n0196_p0871a07_f#<c r4>〔四九〕<c>答、集是生死因。問、記（既）言生死果亦(一二)合有無
 B35n0196_p0871a08_f#<c>Tab: tshib śi śeṅ si 'in Bun: gyi ẖgen śeṅ si gva yi〔hvab〕yi ẖu ẖder-phan
 B35n0196_p0871a09_f#<c>因果何者是
 B35n0196_p0871a10_f#<c>'in gva: ha ja śi
-B35n0196_p0871a11_f#<cr4>〔五○〕<c>無因果。答、寂滅理為果、戒定惠為因。問、諸經之
+B35n0196_p0871a11_f#<c r4>〔五○〕<c>無因果。答、寂滅理為果、戒定惠為因。問、諸經之
 B35n0196_p0871a12_f#<c>ẖbu 'in gva? Tab: tshig ẖbyer li ẖu gva. ke deṅ hve ẖu 'in. Bun: cu kyeṅ ci
 B35n0196_p0871a13_f#<c>中先
 B35n0196_p0871a14_f#<c>cuṅ sen
-B35n0196_p0872a01_f#<cr4>〔五一〕<c>因後果。何故此四諦中先果後因。答、舉理而言
+B35n0196_p0872a01_f#<c r4>〔五一〕<c>因後果。何故此四諦中先果後因。答、舉理而言
 B35n0196_p0872a02_f#<c>'in hi ẖu gva. ha ko tshi si de cuṅ syan' gva hi ẖu 'in? Tab: gu li ẖgyar ẖgen
 B35n0196_p0872a03_f#<c>則(一二)合
 B35n0196_p0872a04_f#<c>tsig hvab
-B35n0196_p0872a05_f#<cr4>〔五二〕<c>先因後果。此四諦法佛初成道時、為五(一三)俱倫比
+B35n0196_p0872a05_f#<c r4>〔五二〕<c>先因後果。此四諦法佛初成道時、為五(一三)俱倫比
 B35n0196_p0872a06_f#<c>sen 'in hi ẖu gva. tshi si de phab phur chu-〈śeṅ〉 de ẖu śi ẖu ẖgo Khu lin 〈ẖbyi〉
 B35n0196_p0872a07_f#<c>丘等
 B35n0196_p0872a08_f#<c>〈ẖkhye ẖu〉 diṅ
-B35n0196_p0872a09_f#<cr4>〔五三〕<c>初聞法要、恐難悟解、(一四)且進視果、後視因、於理无
+B35n0196_p0872a09_f#<c r4>〔五三〕<c>初聞法要、恐難悟解、(一四)且進視果、後視因、於理无
 B35n0196_p0872a10_f#<c>chu bun phab ye ẖu khuṅ ẖnan ẖgo he: tshya dzin śi gva hi ẖu śi 'in: 'i. li ẖbu
 B35n0196_p0872a11_f#<c>狀（殊）。
 B35n0196_p0872a12_f#<c>śon.
-B35n0196_p0872a13_f#<cr4>〔五四〕<c>問、說有五乘何者是五乘。答、天乘梵乘聲聞乘
+B35n0196_p0872a13_f#<c r4>〔五四〕<c>問、說有五乘何者是五乘。答、天乘梵乘聲聞乘
 B35n0196_p0872a14_f#<c>Bun: śvar yi ẖu ẖgo śiṅ Ha ja śi ẖgo śiṅ? Tab: ẖde śiṅ bam śiṅ śeṅ bun śiṅ
 B35n0196_p0873a01_f#<c>緣覺
 B35n0196_p0873a02_f#<c>yuan kag
-B35n0196_p0873a03_f#<cr4>〔五五〕<c>乘諸佛如來乘、是五乘。〔問〕天乘。〔答〕五戒十善得生
+B35n0196_p0873a03_f#<c r4>〔五五〕<c>乘諸佛如來乘、是五乘。〔問〕天乘。〔答〕五戒十善得生
 B35n0196_p0873a04_f#<c>śi〔ṅ〕cu phur〔`z〕u le śiṅ śi ẖgo śiṅ. ẖde śiṅ? ẖgo ke śib śan tig śeṅ
 B35n0196_p0873a05_f#<c>六欲天、是
 B35n0196_p0873a06_f#<c>lug yog ẖde śi
-B35n0196_p0873a07_f#<cr4>〔五六〕<c>名天乘。〔問、何者十善〕答、身三口四意三、是名十善、
+B35n0196_p0873a07_f#<c r4>〔五六〕<c>名天乘。〔問、何者十善〕答、身三口四意三、是名十善、
 B35n0196_p0873a08_f#<c>mye ẖde śiṅ.〔Ha ja śib śan?〕Tab: śin sam si 'i sam śi mye śib śan
 B35n0196_p0873a09_f#<c>亦名十惡。問、何者是
 B35n0196_p0873a10_f#<c>yig mye śib 'ag. Bun ha ja śi.
-B35n0196_p0873a11_f#<cr4>〔五七〕<c>〔身〕三業。〔答〕不殺不盜不媱（淫）。〔問〕何者意三業。
+B35n0196_p0873a11_f#<c r4>〔五七〕<c>〔身〕三業。〔答〕不殺不盜不媱（淫）。〔問〕何者意三業。
 B35n0196_p0873a12_f#<c>（śin）sam ẖgeb? ẖbu bur ẖbu dehu ẖbu yim. Ha ja 'i sam ẖgeb?
 B35n0196_p0873a13_f#<c>〔答〕不貪不嗔不癡。〔問〕何
 B35n0196_p0873a14_f#<c>ẖbu tham ẖbu chin ẖbu chi. Ha
-B35n0196_p0874a01_f#<cr4>〔五八〕<c>者口四業。〔答〕惡口兩舌妄言綺語不。〔問〕遠此業
+B35n0196_p0874a01_f#<c r4>〔五八〕<c>者口四業。〔答〕惡口兩舌妄言綺語不。〔問〕遠此業
 B35n0196_p0874a02_f#<c>ja si ẖgeb? 'A〔g〕lyoṅ śar boṅ ẖgen khi ẖgu ẖbu wen tshi ẖgeb
 B35n0196_p0874a03_f#<c>有其五種十善。
 B35n0196_p0874a04_f#<c>yi ẖu khi. ẖgo juṅ śib śan?
-B35n0196_p0874a05_f#<cr4>〔五九〕<c>〔答〕一人十善、二天十善、三聲聞十善、四緣覺十
+B35n0196_p0874a05_f#<c r4>〔五九〕<c>〔答〕一人十善、二天十善、三聲聞十善、四緣覺十
 B35n0196_p0874a06_f#<c>'Ir〈`zin〉 śib śan: `zi ẖde śib śan: sam śeṅ bun śib śan: si yuan kag śib
 B35n0196_p0874a07_f#<c>善、五菩薩十
 B35n0196_p0874a08_f#<c>śan: ẖgo phu sar śib
-B35n0196_p0874a09_f#<cr2>〔六○〕<c>善。問、何者梵乘。答、修四無量心生得色界四禪天
+B35n0196_p0874a09_f#<c r2>〔六○〕<c>善。問、何者梵乘。答、修四無量心生得色界四禪天
 B35n0196_p0874a10_f#<c>śan. Bun: ha ja bam śin? Tab: si ẖu si ẖbu lyoṅ sim śeṅ tig śeg ke si `zan ẖde
-B35n0196_p0874a11_f#<cr2>〔六一〕<c>名梵乘。問、何者四無量心。答、慈悲喜捨、名四無量
+B35n0196_p0874a11_f#<c r2>〔六一〕<c>名梵乘。問、何者四無量心。答、慈悲喜捨、名四無量
 B35n0196_p0874a12_f#<c>mye bam śiṅ. Bun: ha ja si hbu lyoṅ sim? Tab. tshi pyi hi śa mye si hbu lyoṅ
-B35n0196_p0874a13_f#<cr4>〔六二〕<c>心。問、何者〔四無量心。〕〔答〕慈能乘。悲能拔苦。慶
+B35n0196_p0874a13_f#<c r4>〔六二〕<c>心。問、何者〔四無量心。〕〔答〕慈能乘。悲能拔苦。慶
 B35n0196_p0874a14_f#<c>sim. Bun: ha ja tshi? Niṅ śiṅ. Pyi? Niṅ phar kho. Kheṅ
 B35n0196_p0875a01_f#<c>彼得樂名之為喜。
 B35n0196_p0875a02_f#<c>byi tig lag mye ci ẖu hi.
-B35n0196_p0875a03_f#<cr4>〔六三〕<c>平等持心名之為捨。問、何者聲聞乘。〔答〕因聲悟道
+B35n0196_p0875a03_f#<c r4>〔六三〕<c>平等持心名之為捨。問、何者聲聞乘。〔答〕因聲悟道
 B35n0196_p0875a04_f#<c>Pheṅ diṅ tig sim mye ci ẖu śa. Bun: ha ja śeṅ bun śiṅ? 'In śen ẖgo de ẖu
 B35n0196_p0875a05_f#<c>得
 B35n0196_p0875a06_f#<c>tig
-B35n0196_p0875a07_f#<cr4>〔六四〕<c>名聲聞。問、何者緣覺乘。〔答〕悟十二因緣名緣覺
+B35n0196_p0875a07_f#<c r4>〔六四〕<c>名聲聞。問、何者緣覺乘。〔答〕悟十二因緣名緣覺
 B35n0196_p0875a08_f#<c>mye śeṅ bun. Bun: ha ja yvan kag śiṅ? ẖgo śib `zi 'in yvan mye yvan kag
 B35n0196_p0875a09_f#<c>乘。
 B35n0196_p0875a10_f#<c>śiṅ.
-B35n0196_p0875a11_f#<cr4>〔六五〕<c>問、緣覺人證悟與聲〔聞〕因有何差異以為兩乘。
+B35n0196_p0875a11_f#<c r4>〔六五〕<c>問、緣覺人證悟與聲〔聞〕因有何差異以為兩乘。
 B35n0196_p0875a12_f#<c>Bun: yvan kag〈`zin〉 jiṅ ẖgo yi pun bu（sic）'in yi ẖu ha tsha yi yi ẖu lyoṅ śiṅ?
 B35n0196_p0875a13_f#<c>答、
 B35n0196_p0875a14_f#<c>Tab:
-B35n0196_p0876a01_f#<cr2>〔六六〕<c>維證悟同、少有差異、分為兩乘。何以聲聞之人
+B35n0196_p0876a01_f#<c r2>〔六六〕<c>維證悟同、少有差異、分為兩乘。何以聲聞之人
 B35n0196_p0876a02_f#<c>yu jiṅ ẖgo thoṅ śe ẖu yi ẖu tsha yi: phun ẖu lyoṅ śiṅ. ha yi śen bun ci〈`zin〉
-B35n0196_p0876a03_f#<cr4>〔六七〕<c>須值佛說四諦法悟其(一五)道冥〔理〕、緣覺人出無佛
+B35n0196_p0876a03_f#<c r4>〔六七〕<c>須值佛說四諦法悟其(一五)道冥〔理〕、緣覺人出無佛
 B35n0196_p0876a04_f#<c>su chi phur śvar si de phab ẖgo khi de ẖu li yvan kag〈`zin〉 chur ẖbu phur
 B35n0196_p0876a05_f#<c>世
 B35n0196_p0876a06_f#<c>śe
-B35n0196_p0876a07_f#<cr4>〔六八〕<c>獨悟非常、故有差異。(一六)〔問〕證因緣法也。答、無明
+B35n0196_p0876a07_f#<c r4>〔六八〕<c>獨悟非常、故有差異。(一六)〔問〕證因緣法也。答、無明
 B35n0196_p0876a08_f#<c>thog ẖgo phyi śoṅ: ko yi ẖu tsha yi. Jin 'in yvan phab ya? Tab: ẖbu mye
 B35n0196_p0876a09_f#<c>行識名
 B35n0196_p0876a10_f#<c>heṅ śeg（sic）mye
-B35n0196_p0876a11_f#<cr4>〔六九〕<c>(一七)名色六入觸受愛取有生老死、此是順〔觀〕。〔問〕何
+B35n0196_p0876a11_f#<c r4>〔六九〕<c>(一七)名色六入觸受愛取有生老死、此是順〔觀〕。〔問〕何
 B35n0196_p0876a12_f#<c>mye śeg lug `zib cho〔g〕śihu 'e tshu yi ẖu seṅ le ẖu si tshi śi śun. Ha
 B35n0196_p0876a13_f#<c>者逆觀。
 B35n0196_p0876a14_f#<c>ja ẖgig kvan?
-B35n0196_p0877a01_f#<cr4>〔七○〕<c>答、〔生〕死眾生、生緣有、有緣〔取〕、取〔緣〕愛、愛緣
+B35n0196_p0877a01_f#<c r4>〔七○〕<c>答、〔生〕死眾生、生緣有、有緣〔取〕、取〔緣〕愛、愛緣
 B35n0196_p0877a02_f#<c>Tab:〔s〕i cuṅ śeṅ śeṅ yvan yi ẖu; yi ẖu yvan〔tshu〕; tshu〔yvan〕'e;'e yvan
 B35n0196_p0877a03_f#<c>受、受緣觸、觸緣六入、
 B35n0196_p0877a04_f#<c>śi ẖu; śi ẖu yvan chog ; chog yvan lug `zib ;
-B35n0196_p0877a05_f#<cr4>〔七一〕<c>〔六〕入緣名色、名色緣識、識緣行、行〔緣〕無
+B35n0196_p0877a05_f#<c r4>〔七一〕<c>〔六〕入緣名色、名色緣識、識緣行、行〔緣〕無
 B35n0196_p0877a06_f#<c>〔lug〕`zib yvan mye śeg ; mye śeg yvan sig ; śig yvan heṅ ; heṅ〔yvan〕ẖbu
 B35n0196_p0877a07_f#<c>明、々々〔緣〕一念不覺。〔問〕(一八)此十二因
 B35n0196_p0877a08_f#<c>mye ; ẖbu mye〔yvan〕'ir nyam ẖbu kag. tshi śib ^zi 'in
-B35n0196_p0877a09_f#<cr4>〔七二〕<c>緣、何者緣因果過十二支。〔答〕因無明行現在十二
+B35n0196_p0877a09_f#<c r4>〔七二〕<c>緣、何者緣因果過十二支。〔答〕因無明行現在十二
 B35n0196_p0877a10_f#<c>yvan. Ha ja yvan 'in gva kva śib `zi ci? 'In ẖbu mye heṅ hyan tshe śib `zi
 B35n0196_p0877a11_f#<c>支果。
 B35n0196_p0877a12_f#<c>ci gva.
-B35n0196_p0877a13_f#<cr4>〔七三〕<c>問、何者如來乘。答、六波羅蜜名佛乘。問、何者是六
+B35n0196_p0877a13_f#<c r4>〔七三〕<c>問、何者如來乘。答、六波羅蜜名佛乘。問、何者是六
 B35n0196_p0877a14_f#<c>Bun: ha ja `zu le śiṅ? Tab: lug pa la ẖbyir mye phur śiṅ. Bun: ha ja śi lug
 B35n0196_p0878a01_f#<c>波羅
 B35n0196_p0878a02_f#<c>pa la
-B35n0196_p0878a03_f#<cr4>〔七四〕<c>蜜。答、一布施、二持戒、三忍辱、四精進、五禪定、六智惠、
+B35n0196_p0878a03_f#<c r4>〔七四〕<c>蜜。答、一布施、二持戒、三忍辱、四精進、五禪定、六智惠、
 B35n0196_p0878a04_f#<c>byir? Tab: 'ir pu śi `zi chi ke sam si tseṅ dzin ẖgo śan deṅ lug ci hyve
 B35n0196_p0878a05_f#<c>是
 B35n0196_p0878a06_f#<c>śi
-B35n0196_p0878a07_f#<cr4>〔七五〕<c>六波〔羅〕蜜。〔問〕何者布施得名波羅蜜。答、布施之時、(一九)不
+B35n0196_p0878a07_f#<c r4>〔七五〕<c>六波〔羅〕蜜。〔問〕何者布施得名波羅蜜。答、布施之時、(一九)不
 B35n0196_p0878a08_f#<c>lug pa〔la〕ẖbyir. Ha ja pu śi tig mye pa la hbyir? Tab: pu śi ci śi ẖbu
 B35n0196_p0878a09_f#<c>見受
 B35n0196_p0878a10_f#<c>kyen ẖ`zuhu（sic）
-B35n0196_p0878a11_f#<cr4>〔七六〕<c>者、不〔見〕施者、不見所施財物、得名波羅蜜。〔問〕何者持
+B35n0196_p0878a11_f#<c r4>〔七六〕<c>者、不〔見〕施者、不見所施財物、得名波羅蜜。〔問〕何者持
 B35n0196_p0878a12_f#<c>ja ẖbu kyen śi ja ẖbu kyen śu śi tshe bur tig mye pa la ẖbyir. Ha ja chi
 B35n0196_p0878a13_f#<c>戒波羅
 B35n0196_p0878a14_f#<c>kye pa la
-B35n0196_p0879a01_f#<cr4>〔七七〕<c>蜜。〔答〕(一九)不見持戒、不見他破戒、不見所持戒法、
+B35n0196_p0879a01_f#<c r4>〔七七〕<c>蜜。〔答〕(一九)不見持戒、不見他破戒、不見所持戒法、
 B35n0196_p0879a02_f#<c>ẖbyir? ẖbu kyen chi ke ẖbu kyen〈tha ẖ〉 pa ke ẖbu kyen〔ś〕u chi ke phab
 B35n0196_p0879a03_f#<c>得名波羅〔蜜〕。〔問〕何者
 B35n0196_p0879a04_f#<c>tig mye pa la〔ẖbyir〕. Ha ja
-B35n0196_p0879a05_f#<cr4>〔七八〕<c>精進。〔答〕(一九)不見他解怠、不見自修行、得名波羅
+B35n0196_p0879a05_f#<c r4>〔七八〕<c>精進。〔答〕(一九)不見他解怠、不見自修行、得名波羅
 B35n0196_p0879a06_f#<c>tsoṅ dzin? ẖbu kyen〈tha ẖ〉 ga de ẖbu kyen tshi si ẖu heṅ tig mye pa la
 B35n0196_p0879a07_f#<c>蜜。〔問〕何者
 B35n0196_p0879a08_f#<c>ẖbyir. Ha ja
-B35n0196_p0879a09_f#<cr4>〔七九〕<c>禪定。〔答〕(一九)不見他亂意、不見他所證理、得名波羅
+B35n0196_p0879a09_f#<c r4>〔七九〕<c>禪定。〔答〕(一九)不見他亂意、不見他所證理、得名波羅
 B35n0196_p0879a10_f#<c>śan deṅ. ẖbu kyen〈tha ẖ〉 lvan 'i ẖbu kyan tha śu ciṅ li tig mye pa la
 B35n0196_p0879a11_f#<c>蜜。〔問〕何者
 B35n0196_p0879a12_f#<c>ẖbyir? Ha ja
-B35n0196_p0879a13_f#<cr4>〔八○〕<c>智惠。〔答〕不見自智惠、〔不見〕他愚癡、不見所
+B35n0196_p0879a13_f#<c r4>〔八○〕<c>智惠。〔答〕不見自智惠、〔不見〕他愚癡、不見所
 B35n0196_p0879a14_f#<c>ci hyve? ẖbu kyen tshi ci hyve phu kya〔n〕（sic）ẖgu tsha ẖbu kyen śu
 B35n0196_p0880a01_f#<c>有惑、得名智
 B35n0196_p0880a02_f#<c>yi ẖu hog tig mye ci
-B35n0196_p0880a03_f#<cr4>〔八一〕<c>波羅蜜。問、何者引。〔答〕前麤引。〔問〕後後細淨
+B35n0196_p0880a03_f#<c r4>〔八一〕<c>波羅蜜。問、何者引。〔答〕前麤引。〔問〕後後細淨
 B35n0196_p0880a04_f#<c>pa la ẖbyir Bun: ha ja 'in? Tshyan tsho yin hihu: hi ẖu se tsheṅ
 B35n0196_p0880a05_f#<c>前前麤。答、前五
 B35n0196_p0880a06_f#<c>tshyan tshyan tsho. Tab: tshyan ẖgo
-B35n0196_p0880a07_f#<cr4>〔八二〕<c>如盲、後一如道（導）。問、何者「(二○)擅土（度）攝於六。資生‧无
+B35n0196_p0880a07_f#<c r4>〔八二〕<c>如盲、後一如道（導）。問、何者「(二○)擅土（度）攝於六。資生‧无
 B35n0196_p0880a08_f#<c>`zu meṅ. hi ẖu 'ir `zu de ẖu. Bun: ha ja than do śab 'u lug tsi śeṅ ẖbu
 B35n0196_p0880a09_f#<c>怖法。此中
 B35n0196_p0880a10_f#<c>iẖu phab tshi cuṅ
-B35n0196_p0880a11_f#<cr4>〔八三〕<c>有一二三、名曰脩行住」。答、擅能攝其六。問、云
+B35n0196_p0880a11_f#<c r4>〔八三〕<c>有一二三、名曰脩行住」。答、擅能攝其六。問、云
 B35n0196_p0880a12_f#<c>yi ẖu 'ir `zi sam mye〈si ẖu〉 heṅ chu? Tab: than do（sic）śab khi lug. Bun: hun
 B35n0196_p0880a13_f#<c>何波羅
 B35n0196_p0880a14_f#<c>ha pa la
-B35n0196_p0881a01_f#<cr4>〔八四〕<c>蜜中前劣後勝。云何此中乃能攝勝。答、
+B35n0196_p0881a01_f#<c r4>〔八四〕<c>蜜中前劣後勝。云何此中乃能攝勝。答、
 B35n0196_p0881a02_f#<c>ẖbyi cuṅ tshyan lyvar hi ẖu śiṅ? ẖun ha tshi cuṅ 〈ẖne ẖi〉 niṅ śab〔śiṅ〕? Tab:
 B35n0196_p0881a03_f#<c>且初(二一)表視（示）門中
 B35n0196_p0881a04_f#<c>shya chu bye ẖu śi〔mo〕n cuṅ
-B35n0196_p0881a05_f#<cr4>〔八五〕<c>作如是說。俱能悟其六波羅蜜三事體空之時
+B35n0196_p0881a05_f#<c r4>〔八五〕<c>作如是說。俱能悟其六波羅蜜三事體空之時
 B35n0196_p0881a06_f#<c>dzag `zu śi śvar: khu niṅ ẖgo khi lug pa la ẖbyir dar sam śi khoṅ kho ci śi
 B35n0196_p0881a07_f#<c>无勝。
 B35n0196_p0881a08_f#<c>ẖbu śiṅ
-B35n0196_p0881a09_f#<cr4>〔八六〕<c>問、何者一二三。答、資生攝一〔無畏〕攝二、法攝三。問、
+B35n0196_p0881a09_f#<c r4>〔八六〕<c>問、何者一二三。答、資生攝一〔無畏〕攝二、法攝三。問、
 B35n0196_p0881a10_f#<c>Bun: ha ja 'ir `zi sam? Tab: tsi śeṅ sab 'ir śab `zi phab śab sam. Bun:
 B35n0196_p0881a11_f#<c>何者資生。
 B35n0196_p0881a12_f#<c>ha ja tsi śeṅ?
-B35n0196_p0881a13_f#<cr4>〔八七〕<c>答、油（唯）有信心能施財物名為資生也。問、何者
+B35n0196_p0881a13_f#<c r4>〔八七〕<c>答、油（唯）有信心能施財物名為資生也。問、何者
 B35n0196_p0881a14_f#<c>Tab: yi yi ẖu sin（sic）sim niṅ śi tshe bur mye ẖu tsi śeṅ ya. Bun: ha ja
 B35n0196_p0882a01_f#<c>无畏施。〔答〕由
 B35n0196_p0882a02_f#<c>ẖbu 'u si? Yi ẖu
-B35n0196_p0882a03_f#<cr4>〔八八〕<c>持戒思（忍）耨、施財之時一切眾生无有畏具。問、何
+B35n0196_p0882a03_f#<c r4>〔八八〕<c>持戒思（忍）耨、施財之時一切眾生无有畏具。問、何
 B35n0196_p0882a04_f#<c>chi k'e si `zin〔`zig〕tshe ci si 'ir tshe cuṅ śeṅ ẖbu yi ẖu 'u khu Bun: ẖa
 B35n0196_p0882a05_f#<c>者是
 B35n0196_p0882a06_f#<c>ja śi
-B35n0196_p0882a07_f#<cr4>〔八九〕<c>法施。答、精進禪定智惠攝三。(一二)合一切眾生
+B35n0196_p0882a07_f#<c r4>〔八九〕<c>法施。答、精進禪定智惠攝三。(一二)合一切眾生
 B35n0196_p0882a08_f#<c>phab śi? Tab: tsoṅ tshin śan deṅ cig hyve śaṅ sam hab（sic）'ir tshe cu〔ṅ〕śeṅ
 B35n0196_p0882a09_f#<c>得其解脫
 B35n0196_p0882a10_f#<c>tig khi ga thar
-B35n0196_p0882a11_f#<cr4>〔九○〕<c>故名法施。問、聞說三毒。答、貪瞋癡是名三
+B35n0196_p0882a11_f#<c r4>〔九○〕<c>故名法施。問、聞說三毒。答、貪瞋癡是名三
 B35n0196_p0882a12_f#<c>ko mye phab śi. Bun: bun śvar sam thog. Tab: tham chin chi śi mye sam
 B35n0196_p0882a13_f#<c>毒。問、此貪
 B35n0196_p0882a14_f#<c>thog. Bun: tshi tham
-B35n0196_p0883a01_f#<cr4>〔九一〕<c>瞋癡何因如生。答、由貪不得故生瞋、瞋之緣以故
+B35n0196_p0883a01_f#<c r4>〔九一〕<c>瞋癡何因如生。答、由貪不得故生瞋、瞋之緣以故
 B35n0196_p0883a02_f#<c>chin chi ha 'in `zu śeṅ? Tab: 'ihu tham ẖbu tig ko śeṅ chin: chin ci khig yi ko
 B35n0196_p0883a03_f#<c>生癡、由
 B35n0196_p0883a04_f#<c>śeṅ chi: yi ẖu
-B35n0196_p0883a05_f#<cr4>〔九二〕<c>此如生。問、貪者是何義。答、染着境界名之為貪。
+B35n0196_p0883a05_f#<c r4>〔九二〕<c>此如生。問、貪者是何義。答、染着境界名之為貪。
 B35n0196_p0883a06_f#<c>tshi `zu śeṅ. Bun: tham ja śi ha ẖgi? Tab: `zam jag keṅ ke mye ci ẖu tham.
 B35n0196_p0883a07_f#<c>〔問〕瞋
 B35n0196_p0883a08_f#<c> Chin
-B35n0196_p0883a09_f#<cr4>〔九三〕<c>者何義。答、增汙（憎污）境界名之為瞋。〔問〕癡者何義。答。
+B35n0196_p0883a09_f#<c r4>〔九三〕<c>者何義。答、增汙（憎污）境界名之為瞋。〔問〕癡者何義。答。
 B35n0196_p0883a10_f#<c>ja ha ẖgi? Tab: tshin 'o keṅ k.e mye ci ẖu chin. Chi ja ha ẖgi? Tab:
 B35n0196_p0883a11_f#<c>於
 B35n0196_p0883a12_f#<c>'i
-B35n0196_p0883a13_f#<cr4>〔九四〕<c>緣不了之名為癡。〔問〕何故得名為毒。答、此貪
+B35n0196_p0883a13_f#<c r4>〔九四〕<c>緣不了之名為癡。〔問〕何故得名為毒。答、此貪
 B35n0196_p0883a14_f#<c>yvan ẖbu le ẖu ci mye ẖu chi. Ha ko tig mye ẖu thog? Tab: tshi tham
 B35n0196_p0884a01_f#<c>瞋癡為毒、
 B35n0196_p0884a02_f#<c>chin chi ẖu thog:
-B35n0196_p0884a03_f#<cr4>〔九五〕<c>毒中无過此毒。答、且如世間之毒能雖害一身、
+B35n0196_p0884a03_f#<c r4>〔九五〕<c>毒中无過此毒。答、且如世間之毒能雖害一身、
 B35n0196_p0884a04_f#<c>thog cuṅ ẖbu kva tshi thog. Tab: tshya `zu śe ken ci thog niṅ śar he 'ir śin
 B35n0196_p0884a05_f#<c>貪癡（瞋）癡
 B35n0196_p0884a06_f#<c>tham chin chi
-B35n0196_p0884a07_f#<cr4>〔九六〕<c>毒能害多身、〔答〕世間毒能〔害〕一身、貪瞋癡毒能
+B35n0196_p0884a07_f#<c r4>〔九六〕<c>毒能害多身、〔答〕世間毒能〔害〕一身、貪瞋癡毒能
 B35n0196_p0884a08_f#<c>thog niṅ he ta śin.（Tab:）śe ken thog niṅ he 'ir śin tham chin chi thog niṅ
 B35n0196_p0884a09_f#<c>壞多
 B35n0196_p0884a10_f#<c>he ta
-B35n0196_p0884a11_f#<cr4>〔九七〕<c>身十善。〔答〕只如世間毒蛇毒藥之流、唯害吾身
+B35n0196_p0884a11_f#<c r4>〔九七〕<c>身十善。〔答〕只如世間毒蛇毒藥之流、唯害吾身
 B35n0196_p0884a12_f#<c>śin śib śan〔Tab:〕〔ciṅ〕`zu śe ken thog śa thog 'ag ci〔la〕〔yu〕（he）he śin
 B35n0196_p0884a13_f#<c>命、
 B35n0196_p0884a14_f#<c>me
-B35n0196_p0885a01_f#<cr4>〔九八〕<c>命終後毒即无用、此貪瞋癡毒能令眾生
+B35n0196_p0885a01_f#<c r4>〔九八〕<c>命終後毒即无用、此貪瞋癡毒能令眾生
 B35n0196_p0885a02_f#<c>me〈chuṅ〉 hi ẖu thog tsig ẖbu yoṅ tshi tham chin chi thog niṅ leṅ cuṅ śeṅ
 B35n0196_p0885a03_f#<c>長輪苦海生
 B35n0196_p0885a04_f#<c>choṅ lun kho（n）ke śeṅ
-B35n0196_p0885a05_f#<cr4>〔九九〕<c>死不絕。〔問〕如何對持（治）得免生死。答、如經所說。多
+B35n0196_p0885a05_f#<c r4>〔九九〕<c>死不絕。〔問〕如何對持（治）得免生死。答、如經所說。多
 B35n0196_p0885a06_f#<c>si ẖbu tshvar `zu. Ha dve chi tig 'en śeṅ si? Tab: `zu kyeṅ śu śvar ta
 B35n0196_p0885a07_f#<c>貪眾生以不
 B35n0196_p0885a08_f#<c>tham cuṅ śeṅ yi ẖbu
-B35n0196_p0885a09_f#<cr4>〔一○○〕<c>淨觀為對治、多瞋眾生以慈悲觀為對治。多癡
+B35n0196_p0885a09_f#<c r4>〔一○○〕<c>淨觀為對治、多瞋眾生以慈悲觀為對治。多癡
 B35n0196_p0885a10_f#<c>tsheṅ gvan ẖu dve chi: ta chin cuṅ śeṅ yi tshi pyi gvan ẖu dve chi: ta chi
 B35n0196_p0885a11_f#<c>眾
 B35n0196_p0885a12_f#<c>cuṅ
-B35n0196_p0885a13_f#<cr4>〔一○一〕<c>生以因緣觀為對治、免生死。此對持（治）門中為是
+B35n0196_p0885a13_f#<c r4>〔一○一〕<c>生以因緣觀為對治、免生死。此對持（治）門中為是
 B35n0196_p0885a14_f#<c>śeṅ yi si yvan gvan ẖu dve chi: mye śeṅ si: tshi dve chi mon cuṅ ẖu śi
 B35n0196_p0886a01_f#<c>(二二)久境（究竟）說
 B35n0196_p0886a02_f#<c>gi ẖu keṅ śvar
-B35n0196_p0886a03_f#<cr4>〔一○二〕<c>為非(二二)久境（究竟）說。問。見此物否。答。此不增
+B35n0196_p0886a03_f#<c r4>〔一○二〕<c>為非(二二)久境（究竟）說。問。見此物否。答。此不增
 B35n0196_p0886a04_f#<c>ẖu phyi gi ẖu keṅ śvar. Bun: kyan tshi bur phu? Tab: tshi ẖbu tshiṅ
 B35n0196_p0886a05_f#<c>見我。問、此物不
 B35n0196_p0886a06_f#<c>kyan ẖga. Bun: tshi bur ẖbu
-B35n0196_p0886a07_f#<cr4>〔一○三〕<c>解思惟分別見與不見。汝還同此物耶。答、我
+B35n0196_p0886a07_f#<c r4>〔一○三〕<c>解思惟分別見與不見。汝還同此物耶。答、我
 B35n0196_p0886a08_f#<c>hve si yu phun phar kyan yi ẖbu kyan: `zu hvan thoṅ tshi bur ya? Tab: ẖga
 B35n0196_p0886a09_f#<c>亦如是不
 B35n0196_p0886a10_f#<c>yi ẖu `zu śi ẖbu
-B35n0196_p0886a11_f#<cr4>〔一○四〕<c>作是念思惟分別見與不見。〔問〕云何諸法耶。答、
+B35n0196_p0886a11_f#<c r4>〔一○四〕<c>作是念思惟分別見與不見。〔問〕云何諸法耶。答、
 B35n0196_p0886a12_f#<c>tsag śi nyam si yu phun pyar kyan yi ẖbu kyen. ẖun ha cu phab ya? Tab:
 B35n0196_p0886a13_f#<c>於無心
 B35n0196_p0886a14_f#<c>'u hbu sim
-B35n0196_p0887a01_f#<cr4>〔一○五〕<c>中法繼起。〔問〕心分別一切法耶。〔答〕休分
+B35n0196_p0887a01_f#<c r4>〔一○五〕<c>中法繼起。〔問〕心分別一切法耶。〔答〕休分
 B35n0196_p0887a02_f#<c>cuṅ phab khoṅ khi. Sim phun pyar 'ir tshe phab sya? Hihu phuṅ（sic）
 B35n0196_p0887a03_f#<c>別一切法王（生）。問、(一○)噯作甚
 B35n0196_p0887a04_f#<c>phar 'ir tshe phab śeṅ. Bun: hva tshag śib
-B35n0196_p0887a05_f#<cr4>〔一○六〕<c>沒（恁麼）物。答〔──〕問、取此〔此〕物。答、是青黃赤白
+B35n0196_p0887a05_f#<c r4>〔一○六〕<c>沒（恁麼）物。答〔──〕問、取此〔此〕物。答、是青黃赤白
 B35n0196_p0887a06_f#<c>ma bur? Tab:〔Bun〕tshu tshi tshi bur? Tab: śi tsheṅ hvoṅ chig
 B35n0196_p0887a07_f#<c>交我〔問〕(一○)噯作甚（恁）
 B35n0196_p0887a08_f#<c>ke ẖu ẖga hvan. Tshag śin（sic）
-B35n0196_p0887a09_f#<cr4>〔一○七〕<c>物（麼）交我噯。答、有情无情是汝見。問、有情
+B35n0196_p0887a09_f#<c r4>〔一○七〕<c>物（麼）交我噯。答、有情无情是汝見。問、有情
 B35n0196_p0887a10_f#<c>bur ke ẖu ẖga hvan? Tab: yi ẖu tsheṅ ẖbu tsheṅ śi `zu kyeu. Bun ; yi ẖu tsheṅ
 B35n0196_p0887a11_f#<c>无
 B35n0196_p0887a12_f#<c>ẖbu
-B35n0196_p0887a13_f#<cr4>〔一○八〕<c>情是汝見。問（答）有情无情是我見。〔問〕云何是
+B35n0196_p0887a13_f#<c r4>〔一○八〕<c>情是汝見。問（答）有情无情是我見。〔問〕云何是
 B35n0196_p0887a14_f#<c>tsheṅ śi `zu kyan? Bun: yi ẖu tsheṅ ẖbu tsheṅ śi〔ẖga〕kyan. ẖun ha śi
 B35n0196_p0888a01_f#<c>見。答、我
 B35n0196_p0888a02_f#<c>kyan? Tab: ẖga
-B35n0196_p0888a03_f#<cr4>〔一○九〕<c>亦不作有情無情見。問、(二二)久境（究竟）(一○)噯作
+B35n0196_p0888a03_f#<c r4>〔一○九〕<c>亦不作有情無情見。問、(二二)久境（究竟）(一○)噯作
 B35n0196_p0888a04_f#<c>〔yi ẖu〕ẖbu tshag yi ẖu tsheṅ ẖbu tsheṅ kyan. Bun: gi ẖu keṅ hvan tshag
 B35n0196_p0888a05_f#<c>甚沒（恁麼）物。
 B35n0196_p0888a06_f#<c>`zim ma bur?
-B35n0196_p0888a07_f#<cr4>〔一一○〕<c>答、法不自名。問、云何、四到（倒）。答、常樂我淨。
+B35n0196_p0888a07_f#<c r4>〔一一○〕<c>答、法不自名。問、云何、四到（倒）。答、常樂我淨。
 B35n0196_p0888a08_f#<c>Tab: phab ẖbu tshi mye. Bun: ẖun ha si de ẖu? Tab: śoṅ lag ẖga tsheṅ.
 B35n0196_p0888a09_f#<c>〔問、云何倒〕。答、
 B35n0196_p0888a10_f#<c>〔Bun: ẖun ha de ẖu〕. Tab
-B35n0196_p0888a11_f#<cr4>〔一一一〕<c>无常計常、不淨計淨、苦計為樂。問、何者〔無〕常
+B35n0196_p0888a11_f#<c r4>〔一一一〕<c>无常計常、不淨計淨、苦計為樂。問、何者〔無〕常
 B35n0196_p0888a12_f#<c>ẖbu śoṅ kye śoṅ ẖbu tsheṅ kye tsheṅ kho kye ẖu lag. Bnn: ha ja〔ẖbu〕śoṅ
 B35n0196_p0888a13_f#<c>計
 B35n0196_p0888a14_f#<c>kye
-B35n0196_p0889a01_f#<cr4>〔一一二〕<c>常、不淨計淨。答、是念念遷變、无有常住。
+B35n0196_p0889a01_f#<c r4>〔一一二〕<c>常、不淨計淨。答、是念念遷變、无有常住。
 B35n0196_p0889a02_f#<c>śyoṅ ẖbu. tsheṅ kye tsheṅ? Tab: śi nyam nyam tshyan kyen ẖbu yi ẖu śoṅ chu:
 B35n0196_p0889a03_f#<c>凡夫
 B35n0196_p0889a04_f#<c>bam phu
-B35n0196_p0889a05_f#<cr4>〔一一三〕<c>不了、妄計有常。是身(二三)三〔十〕六種不〔淨〕之變、
+B35n0196_p0889a05_f#<c r4>〔一一三〕<c>不了、妄計有常。是身(二三)三〔十〕六種不〔淨〕之變、
 B35n0196_p0889a06_f#<c>ẖbu lehu ẖoṅ（sic）kye yi ẖu śoṅ: śi śin sam〔śib〕lug juṅ ẖbu〔tsheṅ〕ci〔kyen〕:
 B35n0196_p0889a07_f#<c>凡夫不了、
 B35n0196_p0889a08_f#<c>bam phu ẖbu lehu
-B35n0196_p0889a09_f#<cr4>〔一一四〕<c>妄計為淨。問、何者无我計我、苦為樂。答、是五
+B35n0196_p0889a09_f#<c r4>〔一一四〕<c>妄計為淨。問、何者无我計我、苦為樂。答、是五
 B35n0196_p0889a10_f#<c>ẖoṅ（sic）kye ẖu tsheṅ. Bun: ha ja ẖbu ẖga kye ẖga kho ẖu lag? Tab: śi ẖgo
 B35n0196_p0889a11_f#<c>蘊
 B35n0196_p0889a12_f#<c>hun
-B35n0196_p0889a13_f#<cr4>〔一一五〕<c>諸佛法和合而有、凡夫不了、妄計有我、是
+B35n0196_p0889a13_f#<c r4>〔一一五〕<c>諸佛法和合而有、凡夫不了、妄計有我、是
 B35n0196_p0889a14_f#<c>cu phur phab hva hvab ẖgyar yi ẖu: bam phu ẖbu le ẖu boṅ kye yi ẖu ẖga: śi
 B35n0196_p0890a01_f#<c>身眾苦
 B35n0196_p0890a02_f#<c>śin juṅ kho
-B35n0196_p0890a03_f#<cr2>〔一一六〕<c>之本、凡夫不了、妄計樂相。問、何者是八對。答、於
+B35n0196_p0890a03_f#<c r2>〔一一六〕<c>之本、凡夫不了、妄計樂相。問、何者是八對。答、於
 B35n0196_p0890a04_f#<c>ci bin: bam phu ẖbu le ẖu boṅ kye lag syoṅ. Bun: ha ja śi par de ẖu? Tab: 'u
-B35n0196_p0890a05_f#<cr2>〔一一七〕<c>无計有、於有計無。問、何者於無計有、何者於
+B35n0196_p0890a05_f#<c r2>〔一一七〕<c>无計有、於有計無。問、何者於無計有、何者於
 B35n0196_p0890a06_f#<c>ẖbu kye yi ẖu 'u yi ẖu kye ẖbu. Bun: ha ja 'u ẖbu kye yi ẖu: ha ja 'u
-B35n0196_p0890a07_f#<cr4>〔一一八〕<c>有計无。答、凡夫不了、於無計有、聲聞不了、於
+B35n0196_p0890a07_f#<c r4>〔一一八〕<c>有計无。答、凡夫不了、於無計有、聲聞不了、於
 B35n0196_p0890a08_f#<c>yi ẖu kye ẖbu? Tab: bam phu ẖbu le ẖu 'u ẖbu kye yi ẖu: śeṅ bun ẖbu le ẖu 'u
 B35n0196_p0890a09_f#<c>有
 B35n0196_p0890a10_f#<c>yi ẖu
-B35n0196_p0890a11_f#<cr2>〔一一九〕<c>計无。(二四)大乘中宗見解義別行本。(（二五）)吳法師。
+B35n0196_p0890a11_f#<c r2>〔一一九〕<c>計无。(二四)大乘中宗見解義別行本。(（二五）)吳法師。
 B35n0196_p0890a12_f#<c>kye ẖbu. De śiṅ cuṅ tshoṅ kyan he ẖgi phar heṅ bun phab〈śi〉
-B35n0196_p0890a13_f#<cr4>〔一二○〕<c>言大乘〔中〕宗見解者、謂觀三界內外諸法緣
+B35n0196_p0890a13_f#<c r4>〔一二○〕<c>言大乘〔中〕宗見解者、謂觀三界內外諸法緣
 B35n0196_p0890a14_f#<c>ẖgen de śiṅ〔cuṅ〕tsoṅ kyen he ja ẖu kvan sam ke ẖdve ẖgve cu phab yvan
 B35n0196_p0891a01_f#<c>起緣性、
 B35n0196_p0891a02_f#<c>〔kh〕i yvan seṅ:
-B35n0196_p0891a03_f#<cr4>〔一二一〕<c>以世谷（俗）諦猶如幻化夢及陽炎、假施設有。
+B35n0196_p0891a03_f#<c r4>〔一二一〕<c>以世谷（俗）諦猶如幻化夢及陽炎、假施設有。
 B35n0196_p0891a04_f#<c>hi śe svog de yi ẖu `zu hyan hva moṅ khib yoṅ yyam: ga śi śar yi ẖu
 B35n0196_p0891a05_f#<c>(二六)第〔一〕義諦此
 B35n0196_p0891a06_f#<c>de 'ir ẖgi de tshi
-B35n0196_p0891a07_f#<cr4>〔一二二〕<c>緣生法因果皆空自性涅盤（槃）无生无滅、
+B35n0196_p0891a07_f#<c r4>〔一二二〕<c>緣生法因果皆空自性涅盤（槃）无生无滅、
 B35n0196_p0891a08_f#<c>yvan〔śeṅ〕〔ph〕ab 'in gva he khoṅ tshi seṅ ẖder phan ẖbu śeṅ ẖbu ẖbyer
 B35n0196_p0891a09_f#<c>超過言語及
 B35n0196_p0891a10_f#<c>che ẖu kva ẖgen ẖgu khib
-B35n0196_p0891a11_f#<cr4>〔一二三〕<c>思量境、而無所得。言宗中（中宗）者、遠離(二七)捐咸（損減）
+B35n0196_p0891a11_f#<c r4>〔一二三〕<c>思量境、而無所得。言宗中（中宗）者、遠離(二七)捐咸（損減）
 B35n0196_p0891a12_f#<c>si lyoṅ keṅ ẖgyar ẖbu śu tig: ẖgeṅ cuṅ tsoṅ ja lvan li syoṅ ham
 B35n0196_p0891a13_f#<c>及以增益二
 B35n0196_p0891a14_f#<c>khib yi tshiṅ iẖu: `zi
-B35n0196_p0892a01_f#<cr4>〔一二四〕<c>邊諦故、於世諦門中觀緣生內外諸如引（?）有、故
+B35n0196_p0892a01_f#<c r4>〔一二四〕<c>邊諦故、於世諦門中觀緣生內外諸如引（?）有、故
 B35n0196_p0892a02_f#<c>pyan de: ko 'u śe de mon cuṅ gvan yvan śeṅ ẖdve hgve cu `zu yin yi ẖu ko
 B35n0196_p0892a03_f#<c>不謗
 B35n0196_p0892a04_f#<c>hbu boṅ
-B35n0196_p0892a05_f#<cr4>〔一二五〕<c>世法一向是无。於第〔一〕義而觀諸法超語言
+B35n0196_p0892a05_f#<c r4>〔一二五〕<c>世法一向是无。於第〔一〕義而觀諸法超語言
 B35n0196_p0892a06_f#<c>śe phab 'ir hoṅ śi ẖbu: 'u deṅ 'ir ẖgi ẖgyar kvan cu phab che ẖu ẖgu ẖgeṅ:
 B35n0196_p0892a07_f#<c>境以无所得
 B35n0196_p0892a08_f#<c>heṅ yi ẖbu śu tig
-B35n0196_p0892a09_f#<cr4>〔一二六〕<c>是故不傍（謗）出世間。是遠離二邊故名(二八)中宗。言見
+B35n0196_p0892a09_f#<c r4>〔一二六〕<c>是故不傍（謗）出世間。是遠離二邊故名(二八)中宗。言見
 B35n0196_p0892a10_f#<c>śi ko ẖbu boṅ〔chur〕śe ken: śi lvan li `zi pyan ko mye cuṅ tsoṅ: ẖgen kyan
 B35n0196_p0892a11_f#<c>解
 B35n0196_p0892a12_f#<c>he
-B35n0196_p0892a13_f#<cr2>〔一二七〕<c>者、以惠之眼了達世俗第一義、故名為見解。
+B35n0196_p0892a13_f#<c r2>〔一二七〕<c>者、以惠之眼了達世俗第一義、故名為見解。
 B35n0196_p0892a14_f#<c>ja yi hyve ci ẖgen le ẖu dar〔śe〕svog diṅ 'ir ẖgi ko mye ẖu kyen he.
-B35n0196_p0893a01_f#<cr2>〔一二八〕<c>大乘中宗見解一卷
+B35n0196_p0893a01_f#<c r2>〔一二八〕<c>大乘中宗見解一卷
 B35n0196_p0893a02_f#<c>de śin cuṅ tsoṅ kyen he 'ir〈kvon〉</F>
