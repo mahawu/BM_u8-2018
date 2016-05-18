@@ -1,7 +1,6 @@
 T26 檔案比對版本來源記錄 060399
 
 4:4club（香港佛梅CD）
-4:其他  Others
 S:蕭鎮國大德 Text as provided by Mister Hsiao Chen-kuo
 K:維習安所提供高麗藏CD原經文 Tripitaka Koreana as provided by Christian Wittern
 O:CBETA自行掃瞄辨識 CBETA OCR Group
