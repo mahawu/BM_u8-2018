@@ -1,6 +1,6 @@
 T24 檔案比對版本來源記錄 20071210
 
-4:4club（香港佛梅CD）
+4:4club
 4:其他  Others
 S:蕭鎮國大德 Text as provided by Mister Hsiao Chen-kuo
 J:伽耶山基金會 Gaya Foundation
@@ -13,7 +13,7 @@ n:南林尼僧苑提供新式標點
 p:波羅大德提供新式標點
 z:釋本禪法師提供新式標點
 
-★若為上網需要，以上括號內文字請勿引用。
+
 
 4:北美某大德提供, Text as provided by Anonymous from USA
 S:蕭鎮國大德提供, Text as provided by Mr. Hsiao Chen-Kuo
