@@ -9,6 +9,7 @@ D:亞磬文化資訊站提供
 W:維習安大德提供
 K:維習安大德提供高麗藏 CD 原經文
 f:法雨道場提供新式標點
+c:張革豐大德提供新式標點重校
 
 4:北美某大德提供, Text as provided by Anonymous from USA
 S:蕭鎮國大德提供／張文明大德二校, Text as provided by Mr. Hsiao Chen-Kuo / proofread twice by Mr. Chang Wen-Ming
@@ -19,7 +20,7 @@ D:亞磬文化資訊站提供, Text as provided by Ya-Ching Station
 W:維習安大德提供, Text as provided by Mr. Christian Wittern
 K:維習安大德提供之高麗藏 CD 經文, Tripitaka Koreana as provided by Mr. Christian Wittern
 f:法雨道場提供新式標點, Punctuated text as provided by Dhammavassarama
-
+c:張革豐大德提供新式標點重校, Re-proofing punctuated text as provided by Mr. Zhang Ge-Feng
 
 
 比對版本  大正經號-冊-頁  版本    日期       卷數  經名                                     【朝代 譯者或作者】            高麗經號-冊
@@ -77,8 +78,8 @@ SK4f      T0145-02-p0869  V1.12   2001/03/30    1  佛母般泥洹經           
 SK4f      T0146-02-p0870  V1.12   2001/03/30    1  舍衛國王夢見十事經                       【失譯】                       K0734-19
 SK4f      T0147-02-p0872  V1.12   2001/03/30    1  佛說舍衛國王十夢經                       【失譯】                       K0735-19
 SK4f      T0148-02-p0873  V1.12   2001/03/30    1  國王不梨先泥十夢經                       【東晉 竺曇無蘭譯】            K0758-19
-SW4f      T0149-02-p0874  V1.12   2001/04/06    1  佛說阿難同學經                           【後漢 安世高譯】              K0740-19
+SW4fc     T0149-02-p0874  V1.12   2001/04/06    1  佛說阿難同學經                           【後漢 安世高譯】              K0740-19
 SW4f      T0150A02-p0875  V1.12   2001/04/06    1  七處三觀經                               【後漢 安世高譯】              K0738-19
-SW4f      T0150B02-p0883  V1.12   2001/03/30    1  九橫經                                   【後漢 安世高譯】              K0882-20
-SW4f      T0151-02-p0883  V1.12   2001/03/30    1  佛說阿含正行經                           【後漢 安世高譯】              K0813-20
+SW4fc     T0150B02-p0883  V1.12   2001/03/30    1  九橫經                                   【後漢 安世高譯】              K0882-20
+SW4fc     T0151-02-p0883  V1.12   2001/03/30    1  佛說阿含正行經                           【後漢 安世高譯】              K0813-20
 ───────────────────────────────────────────────────────────────────
