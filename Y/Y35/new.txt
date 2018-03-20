@@ -1702,12 +1702,12 @@ Y35n0033_p0117a05_##」；二、「正說」；三、「結說」。「正說」
 Y35n0033_p0117a06_##分為八法，也就是八篇：
 Y35n0033_p0117a07_##<L_sp><I1><p,2,-1>Ⅰ波羅夷法（[Pārājikā-dharmāḥ, P. pārājika-dhammā>pārājikā-dharmapārājika-dhamma]）
 Y35n0033_p0117a08_##<I1><p,2,-1>Ⅱ僧伽婆尸沙法（[Saṁghāvaśeṣā-dh, P. saṅghādisesā-dh.>saṃghāvaśeṣā-dharmasaṅghādisesā-dhamma]）
-Y35n0033_p0117a09_##<I1><p,2,-1>Ⅲ不定法（[Aniyatau-dh, P. aniyata-dh.>aniyata-dharmaaniyata-dhamma]）
+Y35n0033_p0117a09_##<I1><p,2,-1>Ⅲ不定法（[Aniyatau-dh, P. aniyata-dh.>aniyata-dharma, P. aniyata-dhamma]）
 Y35n0033_p0117a10_##<I1><p,2,-1>Ⅳ尼薩耆波逸提法（[Niḥsargikā-pātayantika-dh, P. nissaggiya-pācittiyā-dh.>niḥsargikā-pātayantika-dharmanissaggiya-pācittiyā-dhamma]）
 Y35n0033_p0117a11_##<I1><p,2,-1>Ⅴ波逸提法（[Pātayantika-dh, P. pācittiyā-dh.>pātayantikā-dharmapācittiyā-dhamma]）
 Y35n0033_p0117a12_##<I1><p,2,-1>Ⅵ波羅提提舍尼法（[Pratideśanīyā-dh, P. pāṭidesaniyā-dh.>pratideśanīyā-dharmapāṭidesaniyā-dhamma]）
 Y35n0033_p0117a13_##<I1><p,2,-1>Ⅶ學法（[Saṁbahulāḥ-śaikṣā-dh, P. sekhiyā-dh.>saṁbahulāḥ-śaikṣa-dharmasekhiyā-dhamma]）
-Y35n0033_p0117a14_##<I1><p,2,-1>Ⅷ滅諍法（[Adhikaraṇaśamathā-dh, P. adhikaraṇasamathā-dh.>adhikaraṇaśamathā-dharmaadhikaraṇasamathā-dhamma]）</L>
+Y35n0033_p0117a14_##<I1><p,2,-1>Ⅷ滅諍法（[Adhikaraṇaśamathā-dh, P. adhikaraṇasamathā-dh.>adhikaraṇaśamatha-dharma, P. adhikaraṇasamatha-dhamma]）</L>
 Y35n0033_p0117a15_##<p,0,2>大眾部（[Mahāsaṁghikāḥ>Mahāsāṃghika]）的「戒經」，末後增「法隨順法」，共為九法。這八法（或九
 Y35n0033_p0118a01_##法），各部「戒經」，每法都分為三段：一、「標名起說」；二、「別說學處」；三、「結問清
 Y35n0033_p0118a02_##淨」。「別說學處」（從多分說）部分，就是佛所制立的，共二百多條戒。在次第上，文句上，
@@ -8528,7 +8528,7 @@ Y35n0033_p0585a15_##
 Y35n0033_p0585a16_##
 Y35n0033_p0586a01_##
 Y35n0033_p0586a02_##<Q3>第四項　未曾有法
-Y35n0033_p0586a03_##<p,0,2>「未曾有法」（[Adbhuta-dharma, Pạbbhuta-dhamma>adbhuta-dharmaabbhuta-dhamma]），音譯為阿浮陀達磨、阿浮多
+Y35n0033_p0586a03_##<p,0,2>「未曾有法」（[Adbhuta-dharma, P. abbhuta-dhamma>adbhuta-dharma, P. abbhuta-dhamma]），音譯為阿浮陀達磨、阿浮多
 Y35n0033_p0586a04_##達磨等。義譯為希法、勝法、未曾有法等。古代的不同解說，可條理為如此：
 Y35n0033_p0586a05r##　　　　　　　　　　　　　世間甚希有事
 Y35n0033_p0586a06r##　　　　　　　　　┌───如來甚希有事
@@ -9997,7 +9997,7 @@ Y35n0033_p0685a07_##<I2>1諸天相應（Devatā-saṁyuttaṁ）．2天子相應
 Y35n0033_p0685a08_##（[Kosala-sa.>Kośalā-saṁyutta]）．4魔相應（[Māra-as.>Māra-saṁyutta]）．5比丘尼相應（[Bhikkhunī-sa.>Bhikkhunī-saṁyutta]）．6梵
 Y35n0033_p0685a09_##（天）相應（[Brahma-sa.>Brahma-saṁyutta]）．7婆羅門相應（[Brāhmaṇa-sa.>Brāhmaṇa-saṁyutta]）．8婆耆沙相應
 Y35n0033_p0685a10_##（[Vaṅgīsa-thera-sa.>Vaṅgīsa-thera-saṁyutta]）．9林相應（[Vana-sa.>Vana-saṁyutta]）．10夜叉相應（[Yakkha-sa.>Yakkha-saṁyutta]）．11（帝）
-Y35n0033_p0685a11_##釋相應（[Sakka-sa.>Sakka-saṁyuttaa]）
+Y35n0033_p0685a11_##釋相應（[Sakka-sa.>Sakka-saṁyutta]）
 Y35n0033_p0685a12_##<I1><p,1>Ⅱ因緣品（[Nidāna-vaggo>Nidāna-vagga]）(一〇相應)
 Y35n0033_p0685a13_##<I2>12因緣相應（[Nidāna-sa.>Nidāna-saṁyutta]）．13現觀相應（[Abhismaya-sa.>Abhisamaya-saṁyutta]）．14界相應（[Dhātu-sa.>Dhātu-saṁyutta]）
 Y35n0033_p0685a14_##．15無始相應（[Anamatagga-sa.>Anamatagga-saṁyutta]）．16迦葉相應（[Kassapa-sa.>Kassapa-saṁyutta]）．17利得供養相
@@ -11969,8 +11969,8 @@ Y35n0033_p0819a03_##義品〉。說一切有部（[Sarvāsti-vadāḥ>Sarvāstiv
 Y35n0033_p0819a04_##與《瑜伽論》，也稱為〈義品〉或《眾義經》[02]，化地部（[Mahī-śāsakāḥ>Mahīśāsaka]）名《十六義品》[03]
 Y35n0033_p0819a05_##。法藏部（[Dharmaguptāḥ>Dharmaguptaka]）名〈十六句義〉，或《句義經》[04]。《毘尼母經》作〈說義〉[05]
 Y35n0033_p0819a06_##。總之，都是以「義」為名的。然在大眾部（[Mahāsāṁghikāḥ>Mahāsāṃghika]）的《僧祇律》中，名為《八跋
-Y35n0033_p0819a07_##祇經》、《八群經》[06]，以「八」為名。「八」，原語 [Aṣṭa.P, aṭṭha>aṣṭaaṭṭha]；而「義」的原語為
-Y35n0033_p0819a08_## [Artha, Pạttha>arthaattha]，語音相近。今巴利〈義品〉，原音為 Aṭṭhaka-vagga，實為「八品」的意思。
+Y35n0033_p0819a07_##祇經》、《八群經》[06]，以「八」為名。「八」，原語 [Aṣṭa.P, aṭṭha>aṣṭa, P. aṭṭha]；而「義」的原語為
+Y35n0033_p0819a08_## [Artha, P. attha>artha, P. attha]，語音相近。今巴利〈義品〉，原音為 Aṭṭhaka-vagga，實為「八品」的意思。
 Y35n0033_p0819a09_##〈義品〉的第二《窟八偈經》，第三《瞋怒八偈經》，第四《淨八偈經》，第五《第一八偈經》
 Y35n0033_p0819a10_##，都是八偈為一經。這可見大眾部作《八跋祇經》、《八群經》，以「八」為名，更近於原始意
 Y35n0033_p0819a11_##義。《八群經》，是眾多的八偈經。原始結集，每經都應為八偈，這才稱為「八品」。或者就是
