@@ -1173,7 +1173,7 @@ Y39n0037_p0080a08_##利弗言：不也。須菩提語舍利弗：若非心心不
 Y39n0037_p0080a09_##<quote><p,3>「舍利弗言：何法為非心？須菩提言；不壞不分別」。</quote>
 Y39n0037_p0080a10_##<p,0,2>與本經同類而廣略不同的經本很多，唐玄奘所譯的，就有五部（《大般若經》的前五分）。
 Y39n0037_p0080a11_##無論是梵本、漢譯本等，文字上有些出入，而以「本性淨」來證成「是心非心」，是沒有實質差
-Y39n0037_p0080a12_##異的。是心非心（tac cittam acittaṁ），對於部派佛教中，以為相續心或與煩惱相應的心，本
+Y39n0037_p0080a12_##異的。是心非心（[tac cittam acittaṁ>tac cittam acittaṃ]），對於部派佛教中，以為相續心或與煩惱相應的心，本
 Y39n0037_p0080a13_##來是清淨的見解，可說是從根本上給以否定。《般若經》所說的「非心」，是心空、心不可得的
 Y39n0037_p0080a14_##意思。心性（[cittata>cittatā]）寂滅不可得，所以說「心（的）本性情淨」（[prakṛtiś cittasya prabhā-svaratā>prakṛti-citta-prabhāsvaratā]）
 Y39n0037_p0080a15_##。接著，引起兩層問答：一、「是心非心」，不要以為有一非心的心（這是常情的意解
@@ -2064,7 +2064,7 @@ Y39n0037_p0141a14_##無上菩提（anuttara-bodhi）、涅槃（nirvāṇa）也
 Y39n0037_p0141a15_##，是「有餘說」，「不了義說」。
 Y39n0037_p0142a01_##<p,0,2><quote>「有異法是空，有異法不空」</quote>，意思是：有些是空的，另外一些是不空的，這就是佛教中的
 Y39n0037_p0142a02_##「有宗」。這種思想，在部派佛教中，有二大系。如說一切有部（[Sarvāstivādināḥ>Sarvāstivāda]）說：有為
-Y39n0037_p0142a03_##（saṃskṛta）、無為（[asaṁskṛita>asaṃskṛta]）法是實有的，我（ātman）與我所（ātmīya）是沒有的。經上
+Y39n0037_p0142a03_##（saṃskṛta）、無為（[asaṃskṛita>asaṃskṛta]）法是實有的，我（ātman）與我所（ātmīya）是沒有的。經上
 Y39n0037_p0142a04_##說<quote>「諸行空」</quote>，是說諸行——五蘊沒有我（與我所），而有為法是不空的。這一思想體系，在大
 Y39n0037_p0142a05_##乘中，就是瑜伽師（[yogācāra>Yogācāra]）所說：依他起性（para-tantra-svabhāva）是有為，圓成實性
 Y39n0037_p0142a06_##（pariniṣpanna-svabhāva）是無為，這是有的；遍計所執性（parikalpita-svabhāva）的我、法執
@@ -2345,7 +2345,7 @@ Y39n0037_p0161a07_##<I><p,2,-1>4.<quote>「諸佛法界清淨」</quote>有六�
 Y39n0037_p0161a08_##<p,0,2>《莊嚴論》的分別論法，與《寶性論》是大致相同的。所說的「法界清淨」有六義，無著所
 Y39n0037_p0161a09_##造的《攝大乘論本》也說：<quote>「諸佛法身，……復與所餘自性，因，果，業，相應，轉功德相應」</quote>
 Y39n0037_p0161a10_##[07]。再從法義來說：《寶性論》立有垢真如（samalā-tathatā）、無垢真如（[nirmalā-tathatā>nirmala-tathatā]）
-Y39n0037_p0161a11_##；轉依（āśraya-parāvṛtti）；三身——實體身（[svābhāvika-kāyā>svabhāvikakāyā]），受樂身（[sāṁbhogika-kāya>sāṃbhogikakāya]）
+Y39n0037_p0161a11_##；轉依（āśraya-parāvṛtti）；三身——實體身（[svābhāvika-kāyā>svabhāvikakāyā]），受樂身（[sāṃbhogika-kāya>sāṃbhogikakāya]）
 Y39n0037_p0161a12_##，化身（[nairmāṇika-kāya>nairmāṇikakāya]），二障——煩惱、智（所知）障（[kleśa-jñeya-abhra>kleśa-jñeya-āvaraṇa]）；二種（
 Y39n0037_p0161a13_##出世間）無分別智（dvividha-jñāna-lokôttara-avikalpa）；無漏界（anāsrava-dhātu）等，都與
 Y39n0037_p0161a14_##瑜伽學相合。但瑜伽學特有的法義，如「五法」，「三自性」，「三無性」，「八識」，「四智
@@ -3707,7 +3707,7 @@ Y39n0037_p0254a07_##上，是不能作為準量的！
 Y39n0037_p0254a08_##<p,0,2>續譯部分，可分為四部分。「第一部分」：明「五行」、「十德」的，是〈[病行>現病]品〉……〈
 Y39n0037_p0254a09_##光明遍照高貴德王菩薩品〉，這五品，是以大乘空義來說明一切。如〈梵行品〉明十一空：內空
 Y39n0037_p0254a10_##（adhyātma-śūnyatā），外空（[bahirdhā-ś.=bahirdhā-śūnyatā]），內外空（adhyātma-bahirdhā-śūnyata），有為空
-Y39n0037_p0254a11_##（[saṃskṛta-ś.=saṃskṛta-śūnyatā]），無為空（[asaṁskṛta-ś.>asaṃskṛta-śūnyatā]），無始（終）空（[anavarāgra-ś.=anavarāgra-śūnyatā]），性空（[prakṛti-ś.=prakṛti-śūnyatā]）
+Y39n0037_p0254a11_##（[saṃskṛta-ś.=saṃskṛta-śūnyatā]），無為空（[asaṃskṛta-ś.>asaṃskṛta-śūnyatā]），無始（終）空（[anavarāgra-ś.=anavarāgra-śūnyatā]），性空（[prakṛti-ś.=prakṛti-śūnyatā]）
 Y39n0037_p0254a12_##，無所有空（[abhāva-ś.=abhāva-śūnyatā]），第一義空（[paramârtha-ś.=paramârtha-śūnyatā]），空空（[śūnyatā-ś.=śūnyatā-śūnyatā]），大空
 Y39n0037_p0254a13_##（[mahā-ś.=mahā-śūnyatā]）[08]。<quote>「諸佛世尊從六波羅蜜，三十七品，十一空，來至大涅槃」</quote>[09]。《經》中也說到
 Y39n0037_p0254a14_##了：<quote>「如來常修十八空義」</quote>[10]。如《經》上[11]說：
