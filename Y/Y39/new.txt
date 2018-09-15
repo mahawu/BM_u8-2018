@@ -2064,7 +2064,7 @@ Y39n0037_p0141a14_##無上菩提（anuttara-bodhi）、涅槃（nirvāṇa）也
 Y39n0037_p0141a15_##，是「有餘說」，「不了義說」。
 Y39n0037_p0142a01_##<p,0,2><quote>「有異法是空，有異法不空」</quote>，意思是：有些是空的，另外一些是不空的，這就是佛教中的
 Y39n0037_p0142a02_##「有宗」。這種思想，在部派佛教中，有二大系。如說一切有部（[Sarvāstivādināḥ>Sarvāstivāda]）說：有為
-Y39n0037_p0142a03_##（saṃskṛta）、無為（[asaṃskṛita>asaṃskṛta]）法是實有的，我（ātman）與我所（ātmīya）是沒有的。經上
+Y39n0037_p0142a03_##（saṃskṛta）、無為（[asaṁskṛita>asaṃskṛta]）法是實有的，我（ātman）與我所（ātmīya）是沒有的。經上
 Y39n0037_p0142a04_##說<quote>「諸行空」</quote>，是說諸行——五蘊沒有我（與我所），而有為法是不空的。這一思想體系，在大
 Y39n0037_p0142a05_##乘中，就是瑜伽師（[yogācāra>Yogācāra]）所說：依他起性（para-tantra-svabhāva）是有為，圓成實性
 Y39n0037_p0142a06_##（pariniṣpanna-svabhāva）是無為，這是有的；遍計所執性（parikalpita-svabhāva）的我、法執
@@ -2345,7 +2345,7 @@ Y39n0037_p0161a07_##<I><p,2,-1>4.<quote>「諸佛法界清淨」</quote>有六�
 Y39n0037_p0161a08_##<p,0,2>《莊嚴論》的分別論法，與《寶性論》是大致相同的。所說的「法界清淨」有六義，無著所
 Y39n0037_p0161a09_##造的《攝大乘論本》也說：<quote>「諸佛法身，……復與所餘自性，因，果，業，相應，轉功德相應」</quote>
 Y39n0037_p0161a10_##[07]。再從法義來說：《寶性論》立有垢真如（samalā-tathatā）、無垢真如（[nirmalā-tathatā>nirmala-tathatā]）
-Y39n0037_p0161a11_##；轉依（āśraya-parāvṛtti）；三身——實體身（[svābhāvika-kāyā>svabhāvikakāyā]），受樂身（[sāṃbhogika-kāya>sāṃbhogikakāya]）
+Y39n0037_p0161a11_##；轉依（āśraya-parāvṛtti）；三身——實體身（[svābhāvika-kāyā>svabhāvikakāyā]），受樂身（[sāṁbhogika-kāya>sāṃbhogikakāya]）
 Y39n0037_p0161a12_##，化身（[nairmāṇika-kāya>nairmāṇikakāya]），二障——煩惱、智（所知）障（[kleśa-jñeya-abhra>kleśa-jñeya-āvaraṇa]）；二種（
 Y39n0037_p0161a13_##出世間）無分別智（dvividha-jñāna-lokôttara-avikalpa）；無漏界（anāsrava-dhātu）等，都與
 Y39n0037_p0161a14_##瑜伽學相合。但瑜伽學特有的法義，如「五法」，「三自性」，「三無性」，「八識」，「四智
