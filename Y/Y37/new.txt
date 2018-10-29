@@ -4970,7 +4970,7 @@ Y37n0035_p0338a02r##　　　分別說部─────┤飲光部（Kāśyap�
 Y37n0035_p0338a03r##　　　（Vibhajyavādin） │法藏部（Dharmaguptaka）
 Y37n0035_p0338a04r##　　　　　　　　　　　　└赤銅鍱部（[Tāmraśātīya>Tāmraśāṭīya]）
 Y37n0035_p0338a05_##<p,0,2>四、一切所貴——正量部所傳：為塚書的 D.說。其分派的系譜，是：
-Y37n0035_p0338a06r##　　　　　　　　　　　┌一說部（Ekavyāvahārika）
+Y37n0035_p0338a06r##　　　　　　　　　　┌一說部（Ekavyāvahārika）
 Y37n0035_p0338a07r##　　　大眾部─────┤　　　　　　　　　　┌┬多聞部（Bahuśrutīya）
 Y37n0035_p0338a08r##　　　（Mahāsāṃghika）└牛住部（Gokulika）─┤└說假部（Prajñaptivādin）
 Y37n0035_p0338a09r##　　　　　　　　　　　　　　　　　　　　　　└─制多部（Caitika）
